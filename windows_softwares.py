@@ -1,6 +1,6 @@
 # the code will open the list of softwares on your default web browser
 # import webbrowser
-# webbrowser.open('', new=1)
+# webbrowser.open(, new=2)
 filename = 'softwares.txt'
 
 
@@ -16,23 +16,34 @@ while True:
     except Exception:
         print("Someting went worong!")
         exit()
+input('Press Enter to continue.')
 
 for line in fh:
     line = line.strip()
-    if line.startswith('Page'):
-        print(line)
-        continue
-    elif line.startswith('Download'):
-        print(line)
-        continue
-    elif line.startswith('MS Version'):
-        print(line)
-        continue
-    if line.startswith('ANDROID'):
-        print('Done: Windows apps')
-        break
-    print(line)
+    if line.startswith('Download Page:'):
+        dpl = line.split(': ')[1]
+        print('Download Page Link:', dpl)
+        # webbrowser.open(dpl)
 
+        continue
+    elif line.startswith('Direct Download:'):
+        ddl = line.split(': ')[1]
+        print('Direct Download Link: ', ddl)
+        # webbrowser.open(ddl)
+
+        continue
+    elif line.startswith('Microsoft Store:'):
+        print(line)
+        continue
+    elif line.startswith('##'):
+        if line.startswith('## ANDROID'):
+            print('\nWindows apps Compeleted\n')
+            break
+        continue
+    elif line == '':
+        continue
+    print()
+    print('Name: ', line)
 
 print('"""Done"""')
 exit()

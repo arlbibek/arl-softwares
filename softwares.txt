@@ -1,5 +1,6 @@
 # Apps and Softwares that I use daily.
-# WINDOWS
+
+## WINDOWS
 
 Firefox
     Download Page: https://www.mozilla.org/en-US/firefox/new/
@@ -11,7 +12,6 @@ Tor
 
 Microsoft Office 365
     Download Page: https://www.microsoft.com/en-us/microsoft-365/microsoft-office
-    Direct Download:  
 
 Gramarly for Microsoft
     Download Page: https://www.grammarly.com/office-addin
@@ -40,7 +40,6 @@ OBS Studio
 
 Adobe Premier Pro
     Download Page: https://www.adobe.com/products/premiere.html
-    Direct Download: 
 
 VLC
     Download Page: https://www.videolan.org/vlc/
@@ -62,7 +61,6 @@ Discord
 
 Back Up and Sync from Google
     Download Page: https://www.google.com/intl/en-GB_ALL/drive/download/backup-and-sync/
-    Direct Download: 
 
 Internet Download Manger
     Download Page: https://www.internetdownloadmanager.com/download.html
@@ -135,7 +133,7 @@ Android Studio
     Download Page: https://developer.android.com/studio#downloads
     Direct Download: https://redirector.gvt1.com/edgedl/android/studio/install/4.0.0.16/android-studio-ide-193.6514223-windows.exe
 
-Python c
+Python 
     Download Page: https://www.python.org/downloads/
     Direct Download: https://www.python.org/ftp/python/3.8.4/python-3.8.4-amd64.exe
 
@@ -143,7 +141,7 @@ Git
     Download Page: https://git-scm.com/downloads
     Direct Download: https://github.com/git-for-windows/git/releases/download/v2.27.0.windows.1/Git-2.27.0-64-bit.exe
 
-ANDROID
+## ANDROID
 
 Lawchair 2
 Pixel pie icon pack
