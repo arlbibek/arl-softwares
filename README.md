@@ -4,22 +4,20 @@
 
 ### Firefox
 
-Go to Firefox Go to [download Page](https://www.mozilla.org/en-US/firefox/new/ "") or [Direct Download](https://www.mozilla.org/en-US/firefox/download/thanks/ "") firefox.
+Go to Firefox Go to [download page](https://www.mozilla.org/en-US/firefox/new/ "") or directly download from [here](https://www.mozilla.org/en-US/firefox/download/thanks/ "").
 
 ### Tor
 
-Go to Tor [Download Page](https://www.torproject.org/ "") or [Direct Download](https://www.torproject.org/dist/torbrowser/9.5.1/torbrowser-install-win64-9.5.1_en-US.exe "") Tor.
+Go to Tor [Download Page](https://www.torproject.org/ "") or directly download from [here](https://www.torproject.org/dist/torbrowser/9.5.1/torbrowser-install-win64-9.5.1_en-US.exe "").
 
 ### Microsoft Office 365
 
-Go to [Download Page](https://www.microsoft.com/en-us/microsoft-365/microsoft-office "")
+Go to [Download Page](https://www.microsoft.com/en-us/microsoft-365/microsoft-office "").
 
 
 ### Gramarly for Microsoft
 
-Go to [Download Page](https://www.grammarly.com/office-addin "")
-
-[Direct Download](https://download-office.grammarly.com/latest/GrammarlyAddInSetup.exe "")
+Go to [Download Page](https://www.grammarly.com/office-addin "") or directly download from [here](https://download-office.grammarly.com/latest/GrammarlyAddInSetup.exe "").
 
 ### GIMP
 
