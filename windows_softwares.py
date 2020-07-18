@@ -21,6 +21,7 @@ input('Press Enter to continue.')
 for line in fh:
     line = line.strip()
     if line.startswith('Download Page:'):
+        dpl = line.split(': ')[1]
         print('Download Page Link:', dpl)
         # webbrowser.open(dpl)
 
