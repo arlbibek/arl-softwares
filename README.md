@@ -8,167 +8,121 @@ Go to Firefox Go to [download page](https://www.mozilla.org/en-US/firefox/new/ "
 
 ### Tor
 
-Go to Tor [Download Page](https://www.torproject.org/ "") or directly download from [here](https://www.torproject.org/dist/torbrowser/9.5.1/torbrowser-install-win64-9.5.1_en-US.exe "").
+Go to Tor [download page](https://www.torproject.org/ "") or directly download it from [here](https://www.torproject.org/dist/torbrowser/9.5.1/torbrowser-install-win64-9.5.1_en-US.exe "").
 
 ### Microsoft Office 365
 
-Go to [Download Page](https://www.microsoft.com/en-us/microsoft-365/microsoft-office "").
+Go to [download page](https://www.microsoft.com/en-us/microsoft-365/microsoft-office "").
 
 
 ### Gramarly for Microsoft
 
-Go to [Download Page](https://www.grammarly.com/office-addin "") or directly download from [here](https://download-office.grammarly.com/latest/GrammarlyAddInSetup.exe "").
+Go to [download page](https://www.grammarly.com/office-addin "") or directly download it from [here](https://download-office.grammarly.com/latest/GrammarlyAddInSetup.exe "").
 
 ### GIMP
 
-Go to [Download Page](https://www.gimp.org/ "")
-
-[Direct Download](https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.20-setup-1.exe "")
+Go to [download page](https://www.gimp.org/ "") or directly download it from [here](https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.20-setup-1.exe "")
 
 ### Sharex
 
-Go to [Download Page](https://getsharex.com/ "")
-
-[Direct Download](https://github.com/ShareX/ShareX/releases/download/v13.1.0/ShareX-13.1.0-setup.exe "")
+Go to [download page](https://getsharex.com/ "") or directly download it from [here](https://github.com/ShareX/ShareX/releases/download/v13.1.0/ShareX-13.1.0-setup.exe "")
 
 [Microsoft Store](https://www.microsoft.com/en-us/p/sharex/9nblggh4z1sp "")
 
 ### Paint.net
 
-Go to [Download Page](https://www.getpaint.net/download.html "")
-
-[Direct Download](https://www.dotpdn.com/files/paint.net.4.2.12.install.zip "")
+Go to [download page](https://www.getpaint.net/download.html "") or directly download it from [here](https://www.dotpdn.com/files/paint.net.4.2.12.install.zip "")
 
 ### Avdimux
 
-Go to [Download Page](https://www.fosshub.com/Avidemux.html "")
-
-[Direct Download](https://www.fosshub.com/Avidemux.html?dwl=Avidemux_2.7.6VC++64bits.exe "")
+Go to [download page](https://www.fosshub.com/Avidemux.html "") or directly download it from [here](https://www.fosshub.com/Avidemux.html?dwl=Avidemux_2.7.6VC++64bits.exe "")
 
 ### OBS Studio
 
-Go to [Download Page](https://obsproject.com/ "")
-
-[Direct Download](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-25.0.8-Full-Installer-x64.exe "")
+Go to [download page](https://obsproject.com/ "") or directly download it from [here](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-25.0.8-Full-Installer-x64.exe "")
 
 ### Adobe Premier Pro
 
-Go to [Download Page](https://www.adobe.com/products/premiere.html "")
+Go to [download page](https://www.adobe.com/products/premiere.html "")
 
 
 ### VLC
 
-Go to [Download Page](https://www.videolan.org/vlc/ "")
-
-[Direct Download](https://get.videolan.org/vlc/3.0.11/win64/vlc-3.0.11-win64.exe "")
+Go to [download page](https://www.videolan.org/vlc/ "") or directly download it from [here](https://get.videolan.org/vlc/3.0.11/win64/vlc-3.0.11-win64.exe "")
 
 ### Spotify
 
-Go to [Download Page](https://www.spotify.com/us/download/other/ "")
-
-[Direct Download](https://www.spotify.com/download/windows/ "")
+Go to [download page](https://www.spotify.com/us/download/other/ "") or directly download it from [here](https://www.spotify.com/download/windows/ "")
 
 [Microsoft Store](https://www.microsoft.com/en-us/p/spotify-music/9ncbcszsjrsb?activetab=pivot:overviewtab "")
 
 ### MusicBee
 
-Go to [Download Page](https://getmusicbee.com/ "")
-
-### MusicBee
-
-[Direct Download](https://www.mediafire.com/file/q7xbxr7hipn1ccu/MusicBeeSetup_3_3_Update6.zip/file "")
+Go to [download page](https://getmusicbee.com/ "") or directly download it from [here](https://www.mediafire.com/file/q7xbxr7hipn1ccu/MusicBeeSetup_3_3_Update6.zip/file "")
 
 [Microsoft Store](https://www.microsoft.com/en-us/p/musicbee/9p4clt2rj1rs "")
 
 ### Discord
 
-Go to [Download Page](https://discord.com/new/download "")
-
-[Direct Download](https://discord.com/api/download?platform=win "")
+Go to [download page](https://discord.com/new/download "") or directly download it from [here](https://discord.com/api/download?platform=win "")
 
 ### Back Up and Sync from Google
 
-Go to [Download Page](https://www.google.com/intl/en-GB_ALL/drive/download/backup-and-sync/ "")
+Go to [download page](https://www.google.com/intl/en-GB_ALL/drive/download/backup-and-sync/ "")
 
 
 ### Internet Download Manger
 
-Go to [Download Page](https://www.internetdownloadmanager.com/download.html "")
-
-[Direct Download](http://mirror2.internetdownloadmanager.com/idman638build1.exe?b=1&filename=idman638build1.exe "")
+Go to [download page](https://www.internetdownloadmanager.com/download.html "") or directly download it from [here](http://mirror2.internetdownloadmanager.com/idman638build1.exe?b=1&filename=idman638build1.exe "")
 
 ### IDM trial reset
 
-Go to [Download Page](https://github.com/J2TeaM/idm-trial-reset/releases/tag/v1.0.0 "")
-
-[Direct Download](https://github.com/J2TEAM/idm-trial-reset/releases/download/v1.0.0/IDM.Trial.Reset.v1.0.0.zip "")
+Go to [download page](https://github.com/J2TeaM/idm-trial-reset/releases/tag/v1.0.0 "") or directly download it from [here](https://github.com/J2TEAM/idm-trial-reset/releases/download/v1.0.0/IDM.Trial.Reset.v1.0.0.zip "")
 
 ### qbittorrent
 
-Go to [Download Page](https://www.fosshub.com/qBittorrent.html "")
-
-[Direct Download](https://www.fosshub.com/qBittorrent.html?dwl=qbittorrent_4.2.5_x64_setup.exe "")
+Go to [download page](https://www.fosshub.com/qBittorrent.html "") or directly download it from [here](https://www.fosshub.com/qBittorrent.html?dwl=qbittorrent_4.2.5_x64_setup.exe "")
 
 ### WebTorrent:
 
-Go to [Download Page](https://webtorrent.io/desktop/ "")
-
-[Direct Download](https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.21.0/WebTorrentSetup-v0.21.0.exe "")
+Go to [download page](https://webtorrent.io/desktop/ "") or directly download it from [here](https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.21.0/WebTorrentSetup-v0.21.0.exe "")
 
 
 ### syncthing
 
-Go to [Download Page](https://syncthing.net/downloads/ "")
-
-[Direct Download](https://github.com/syncthing/syncthing/releases/download/v1.7.1/syncthing-windows-amd64-v1.7.1.zip "")
+Go to [download page](https://syncthing.net/downloads/ "") or directly download it from [here](https://github.com/syncthing/syncthing/releases/download/v1.7.1/syncthing-windows-amd64-v1.7.1.zip "")
 
 ### KeePass
 
-Go to [Download Page](https://keepass.info/download.html "")
-
-[Direct Download](https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.45/KeePass-2.45-Setup.exe/download "")
+Go to [download page](https://keepass.info/download.html "") or directly download it from [here](https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.45/KeePass-2.45-Setup.exe/download "")
 
 ### winRAR
 
-Go to [Download Page](https://www.win-rar.com/download.html?&L=0 "")
-
-[Direct Download](https://www.win-rar.com/postdownload.html?&f=winrar-x64-591.exe "")
+Go to [download page](https://www.win-rar.com/download.html?&L=0 "") or directly download it from [here](https://www.win-rar.com/postdownload.html?&f=winrar-x64-591.exe "")
 
 ### Sublime
 
-Go to [Download Page](https://www.sublimetext.com/3 "")
-
-[Direct Download](https://download.sublimetext.com/Sublime%20Text%20Build%203211%20x64%20Setup.exe "")
+Go to [download page](https://www.sublimetext.com/3 "") or directly download it from [here](https://download.sublimetext.com/Sublime%20Text%20Build%203211%20x64%20Setup.exe "")
 
 ### Notepad++
 
-Go to [Download Page](https://notepad-plus-plus.org/downloads/ "")
-
-[Direct Download](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.8/npp.7.8.8.Installer.x64.exe "")
+Go to [download page](https://notepad-plus-plus.org/downloads/ "") or directly download it from [here](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.8/npp.7.8.8.Installer.x64.exe "")
 
 ### Calibre
 
-Go to [Download Page](https://www.fosshub.com/Calibre.html "")
-
-[Direct Download](https://www.fosshub.com/Calibre.html?dwl=calibre-64bit-4.20.0.msi "")
+Go to [download page](https://www.fosshub.com/Calibre.html "") or directly download it from [here](https://www.fosshub.com/Calibre.html?dwl=calibre-64bit-4.20.0.msi "")
 
 ### SumatraPDF
 
-Go to [Download Page](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html "")
-
-[Direct Download](https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64-install.exe "")
+Go to [download page](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html "") or directly download it from [here](https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64-install.exe "")
 
 ### Oracle VirtualBox
 
-Go to [Download Page](https://www.virtualbox.org/wiki/Downloads "")
-
-[Direct Download](https://download.virtualbox.org/virtualbox/6.1.10/VirtualBox-6.1.10-138449-Win.exe "")
+Go to [download page](https://www.virtualbox.org/wiki/Downloads "") or directly download it from [here](https://download.virtualbox.org/virtualbox/6.1.10/VirtualBox-6.1.10-138449-Win.exe "")
 
 ### Cisco Packet Tracer
 
-Go to [Download Page](https://www.netacad.com/portal/resources/packet-tracer "")
-
-[Direct Download](https://www.netacad.com/portal/resources/file/d0e62bca-085f-4011-baca-f2e9c23820d3 "")
+Go to [download page](https://www.netacad.com/portal/resources/packet-tracer "") or directly download it from [here](https://www.netacad.com/portal/resources/file/d0e62bca-085f-4011-baca-f2e9c23820d3 "")
 
 ### Debian (Windows subsystem for Linux)
 
@@ -180,30 +134,20 @@ Go to [Download Page](https://www.netacad.com/portal/resources/packet-tracer "")
 
 ### GNS3
 
-Go to [Download Page](https://sourceforge.net/projects/gns-3/ "")
-
-[Direct Download](https://sourceforge.net/projects/gns-3/files/latest/download "")
+Go to [download page](https://sourceforge.net/projects/gns-3/ "") or directly download it from [here](https://sourceforge.net/projects/gns-3/files/latest/download "")
 
 ### DB Browser for SQLite
 
-Go to [Download Page](https://sqlitebrowser.org/dl/ "")
-
-[Direct Download](https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.12.0-win64.msi "")
+Go to [download page](https://sqlitebrowser.org/dl/ "") or directly download it from [here](https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.12.0-win64.msi "")
 
 ### Android Studio
 
-Go to [Download Page](https://developer.android.com/studio#downloads "")
-
-[Direct Download](https://redirector.gvt1.com/edgedl/android/studio/install/4.0.0.16/android-studio-ide-193.6514223-windows.exe "")
+Go to [download page](https://developer.android.com/studio#downloads "") or directly download it from [here](https://redirector.gvt1.com/edgedl/android/studio/install/4.0.0.16/android-studio-ide-193.6514223-windows.exe "")
 
 ### Python 
 
-Go to [Download Page](https://www.python.org/downloads/ "")
-
-[Direct Download](https://www.python.org/ftp/python/3.8.4/python-3.8.4-amd64.exe "")
+Go to [download page](https://www.python.org/downloads/ "") or directly download it from [here](https://www.python.org/ftp/python/3.8.4/python-3.8.4-amd64.exe "")
 
 ### Git
 
-Go to [Download Page](https://git-scm.com/downloads "")
-
-[Direct Download](https://github.com/git-for-windows/git/releases/download/v2.27.0.windows.1/Git-2.27.0-64-bit.exe "")
+Go to [download page](https://git-scm.com/downloads "") or directly download it from [here](https://github.com/git-for-windows/git/releases/download/v2.27.0.windows.1/Git-2.27.0-64-bit.exe "")
