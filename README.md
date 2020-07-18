@@ -1,6 +1,6 @@
 # Softwares that I cannot live without.
 ## WINDOWS
-![Windows Logo](http://getwallpapers.com/wallpaper/full/f/5/8/632834.jpg)
+![](images/desktop.png)
 
 ### Firefox
 
