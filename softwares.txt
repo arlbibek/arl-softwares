@@ -141,6 +141,11 @@ Git
     Download Page: https://git-scm.com/downloads
     Direct Download: https://github.com/git-for-windows/git/releases/download/v2.27.0.windows.1/Git-2.27.0-64-bit.exe
 
+# Add
+Proton VPN
+
+#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 ## ANDROID
 
 Lawchair 2
@@ -154,6 +159,7 @@ Sudoku - The Clean One
 
 1.1.1.1 Faster & Safer Internet
 Firefox Browser
+Brave Browser
 Fing - Network Tools
 
 eReader Prestigio: Book Reader
