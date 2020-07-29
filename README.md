@@ -1,5 +1,56 @@
-# Windows applicatins that I cannot live without.
-![](images/desktop.png)
+# List of Softwares and Applications that I use daily.
+![](images/desktop.png "Apps Icon Montage")
+---
+<!-- ## Navigate
++ [Microsoft Office 365](https://github.com/arlbibek/arl-softwares#Microsoft-Office-365 "")
++ [Gramarly for Microsoft](https://github.com/arlbibek/arl-softwares#Gramarly-for-Microsoft "")
++ [GIMP](https://github.com/arlbibek/arl-softwares#GIMP "")
++ [Sharex](https://github.com/arlbibek/arl-softwares#Sharex "")
++ [Paint.net](https://github.com/arlbibek/arl-softwares#Paint.net "")
++ [Avdimux](https://github.com/arlbibek/arl-softwares#Avdimux "")
++ [OBS Studio](https://github.com/arlbibek/arl-softwares#OBS-Studio "")
++ [Adobe Premier Pro](https://github.com/arlbibek/arl-softwares#Adobe-Premier-Pro "")
++ [VLC](https://github.com/arlbibek/arl-softwares#VLC "")
++ [Spotify](https://github.com/arlbibek/arl-softwares#Spotify "")
++ [MusicBee](https://github.com/arlbibek/arl-softwares#MusicBee "")
++ [Discord](https://github.com/arlbibek/arl-softwares#Discord "")
++ [Back Up and Sync](https://github.com/arlbibek/arl-softwares#Back-Up-and-Sync "")
++ [Internet Download Manger](https://github.com/arlbibek/arl-softwares#Internet-Download-Manger "")
++ [IDM trial reset](https://github.com/arlbibek/arl-softwares#IDM-trial-reset "")
++ [qbittorrent](https://github.com/arlbibek/arl-softwares#qbittorrent "")
++ [WebTorrent](https://github.com/arlbibek/arl-softwares#WebTorrent "")
++ [syncthing](https://github.com/arlbibek/arl-softwares#syncthing "")
++ [KeePass](https://github.com/arlbibek/arl-softwares#KeePass "")
++ [winRAR](https://github.com/arlbibek/arl-softwares#winRAR "")
++ [Sublime Text](https://github.com/arlbibek/arl-softwares#SublimeText "")
++ [Notepad++](https://github.com/arlbibek/arl-softwares#Notepad++ "")
++ [Calibre](https://github.com/arlbibek/arl-softwares#Calibre "")
++ [SumatraPDF](https://github.com/arlbibek/arl-softwares#SumatraPDF "")
++ [Oracle VirtualBox](https://github.com/arlbibek/arl-softwares#Oracle-VirtualBox "")
++ [Debian - WSL](https://github.com/arlbibek/arl-softwares#Debian---WSL "")
++ [Windows Terminal](https://github.com/arlbibek/arl-softwares#Windows-Terminal "")
++ [Python ](https://github.com/arlbibek/arl-softwares#Python "")
++ [Git](https://github.com/arlbibek/arl-softwares#Git "")
++ [Cisco Packet Tracer](https://github.com/arlbibek/arl-softwares#Cisco-Packet-Tracer "")
++ [ProtonVPN](https://github.com/arlbibek/arl-softwares#ProtonVPN "")
++ [Others](https://github.com/arlbibek/arl-softwares#Others "")
++ [ANDROID](https://github.com/arlbibek/arl-softwares#ANDROID "")
+-->
+<!-- Tags
+* Literlly Can't Live Without
+! Need and alternative.
+$ A Must have.
+@ Doesn't use often
+^ Wouldn't use if i didn't have to.
+
+Open Source
+Github
+Commercial 
+Freemium
+-->
+---
+# Windows
+
 
 ## Firefox
 
@@ -18,7 +69,7 @@ Go to Tor [offical download page](https://www.torproject.org/ "") or directly do
 + a line of subscription services offered by Microsoft as part of the Microsoft Office product line.
 + (Word, Powerpoint and Excel) 
 
-Go to [offical download page](https://www.microsoft.com/en-us/microsoft-365/microsoft-office ""). *(Sign-in Required)*
+Go to [offical download page](https://www.microsoft.com/en-us/microsoft-365/microsoft-office "").
 
 
 ### Gramarly for Microsoft
@@ -63,7 +114,7 @@ Go to [offical download page](https://obsproject.com/ "") or directly download i
 
 + a industry-leading video editing software for film, TV, and the web.
 
-Go to [offical download page](https://www.adobe.com/products/premiere.html ""). *(Sign-in Required)*
+Go to [offical download page](https://www.adobe.com/products/premiere.html "").
 
 ## VLC
 
@@ -75,7 +126,7 @@ Go to [offical download page](https://www.videolan.org/vlc/ "") or directly down
 
 + music streaming and media services provider.
 
-Go to [offical download page](https://www.spotify.com/us/download/other/ "") or directly download it from [here](https://www.spotify.com/download/windows/ ""). *(Sign-in Required)*
+Go to [offical download page](https://www.spotify.com/us/download/other/ "") or directly download it from [here](https://www.spotify.com/download/windows/ "").
 
 Download from [microsoft store](https://www.microsoft.com/en-us/p/spotify-music/9ncbcszsjrsb?activetab=pivot:overviewtab "").
 
@@ -177,8 +228,8 @@ Go to [offical download page](https://www.sumatrapdfreader.org/download-free-pdf
 
 Go to [offical download page](https://www.virtualbox.org/wiki/Downloads "") or directly download it from [here](https://download.virtualbox.org/virtualbox/6.1.10/VirtualBox-6.1.10-138449-Win.exe "").
 
-## Debian (Windows subsystem for Linux)
-
+## Debian - WSL
+\# WSL = Windows subsystem for Linux
 + compile and run Unix programs directly in the Windows Environment.
 
 Download from [microsoft store](https://www.microsoft.com/store/apps/9MSVKQC78PK6 "").
@@ -201,6 +252,10 @@ Go to [offical download page](https://www.python.org/downloads/ "") or directly 
 
 Go to [offical download page](https://git-scm.com/downloads "") or directly download it from [here](https://github.com/git-for-windows/git/releases/download/v2.27.0.windows.1/Git-2.27.0-64-bit.exe "").
 
+## ProtonVPN
++ a VPN service provider operated by the Swiss company Proton Technologies AG
+
+Go to [offical webpage](https://protonvpn.com/ "").
 
 ## Cisco Packet Tracer
 
@@ -208,10 +263,6 @@ Go to [offical download page](https://git-scm.com/downloads "") or directly down
 
 Go to [offical download page](https://www.netacad.com/portal/resources/packet-tracer "") or directly download it from [here](https://www.netacad.com/portal/resources/file/d0e62bca-085f-4011-baca-f2e9c23820d3 "").
 
-## ProtonVPN
-+ a VPN service provider operated by the Swiss company Proton Technologies AG
-
-Go to [Offical Webpage](https://protonvpn.com/ "") 
 
 ### Others
 + [Android Studio](https://developer.android.com/studio#downloads "")
@@ -271,3 +322,5 @@ Go to [Offical Webpage](https://protonvpn.com/ "")
 + Syncthing
 ---
 \# The End.
+
+---------------------------------------------------------------
