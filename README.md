@@ -113,7 +113,7 @@ Install via Chocolatey:
 
 ## Sharex
 
-[]( ""): a free and open-source screenshot and screencast utility.
+[Sharex]( ""): a free and open-source screenshot and screencast utility.
 
 Go to [offical download page](https://getsharex.com/ "") or directly download it from [here](https://github.com/ShareX/ShareX/releases/download/v13.1.0/ShareX-13.1.0-setup.exe "").
 
