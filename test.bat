@@ -1,4 +1,5 @@
 ::Test bat file
+@echo off
 powershell 
 echo "Downloading Firefox"
 pause
