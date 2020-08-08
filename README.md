@@ -529,7 +529,7 @@ Go to [offical download page](https://www.netacad.com/portal/resources/packet-tr
 + Portal - Wifi File Transfer
 + Quik - Free Video Editor
 + Automatic Tag Editor
-+ Mi Music (*Need an alternative*)
++ ~Mi Music (*Need an alternative*)~ Shuttle Music Player
 
 + XE Currency Converter & Money Transfers
 + Mi Calculator
