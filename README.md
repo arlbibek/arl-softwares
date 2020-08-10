@@ -45,7 +45,7 @@ $ A Must have.
 
 Open Source
 Github
-Commercial 
+Commercial
 Freemium
 End of comment-->
 ---
@@ -54,7 +54,7 @@ End of comment-->
 ## Chocolatey
 
 [Chocolatey](https://chocolatey.org/ ""): app discription app dis criptionapp dI scription app discri ptionapp discription
-  
+
 Install Chocolatey
 
     Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
@@ -67,8 +67,6 @@ Install Chocolatey
 
 Go to [offical download page](https://www.mozilla.org/en-US/firefox/new/ "") or directly download it from [here](https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US "").
 
-Get it from [microsoft store](https://www.microsoft.com/en-us/p/s/9nblggh4z1sp "").
-
 Install via Chocolatey:
 
     choco install firefox
@@ -77,7 +75,7 @@ Install via Chocolatey:
 
 ## Tor
 
-[Tor]( ""): a free and open-source software for enabling anonymous communication. 
+[Tor]( ""): a free and open-source software for enabling anonymous communication.
 
 Go to [offical download page](https://www.torproject.org/ "") or directly download it from [here](https://www.torproject.org/dist/torbrowser/9.5.1/torbrowser-install-win64-9.5.1_en-US.exe "").
 
@@ -85,7 +83,7 @@ Go to [offical download page](https://www.torproject.org/ "") or directly downlo
 
 ## Microsoft Office 365
 
-[Microsoft Office 365]( ""): a line of subscription services offered by Microsoft as part of the Microsoft Office product line. 
+[Microsoft Office 365]( ""): a line of subscription services offered by Microsoft as part of the Microsoft Office product line.
 
 Go to [offical download page](https://www.microsoft.com/en-us/microsoft-365/microsoft-office "").
 
@@ -195,7 +193,7 @@ Install via Chocolatey:
 
 ## MusicBee
 
-[MusicBee]( ""): a freeware media player for playback and organization of audio files. 
+[MusicBee]( ""): a freeware media player for playback and organization of audio files.
 
 Go to [offical download page](https://getmusicbee.com/ "") or directly download it from [here](https://www.mediafire.com/file/q7xbxr7hipn1ccu/MusicBeeSetup_3_3_Update6.zip/file "").
 
@@ -291,7 +289,7 @@ Go to [offical download page](https://keepass.info/download.html "") or directly
 
 ## 7-Zip
 
-[7-Zip]( ""): 
+[7-Zip]( ""):
 
 Go to [offical download page]( "") or directly download it from [here]( "").
 
@@ -399,7 +397,7 @@ Install via Chocolatey:
 
 <!---->
 
-## Python 
+## Python
 
 [Python]( ""): an interpreted, high-level, general-purpose programming language.
 
@@ -480,24 +478,24 @@ Go to [offical download page](https://www.netacad.com/portal/resources/packet-tr
     Install via Chocolatey: `choco install androidstudio`
 
 + [Audacity]( "")
-    
+
     Install via Chocolatey: `choco install audacity`
 
 + [DB Browser for SQLite]( "")
-    
+
     Install via Chocolatey: `choco install sqlitebrowser`
 
 + [GNS3]( "")
-    
+
     Install via Chocolatey: `choco install gns3`
 
 + [Lively Wallpaper]( "")
 
-+ [Mozilla Thunderbird]( "") 
-    
++ [Mozilla Thunderbird]( "")
+
     Install via Chocolatey: `choco install thunderbird`
 
-+ [winRAR]( "") 
++ [winRAR]( "")
 
 *Switched to 7-Zip recently*
 

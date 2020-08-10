@@ -3,12 +3,11 @@
 # webbrowser.open(, new=2)
 filename = 'softwares.txt'
 
-
 while True:
     try:
-        fh = open(filename, 'rt')
-        print("File found: '" + filename + "'")
-        break
+        with open(filename, 'rt') as fh:
+            print("File found: '" + filename + "'")
+            break
     except FileNotFoundError:
         print("No such file or directory: '" + filename + "'")
         filename = input("Enter fielname: ")
@@ -24,13 +23,11 @@ for line in fh:
         dpl = line.split(': ')[1]
         print('Download Page Link:', dpl)
         # webbrowser.open(dpl)
-
         continue
     elif line.startswith('Direct Download:'):
         ddl = line.split(': ')[1]
         print('Direct Download Link: ', ddl)
         # webbrowser.open(ddl)
-
         continue
     elif line.startswith('Microsoft Store:'):
         print(line)
@@ -45,5 +42,4 @@ for line in fh:
     print()
     print('Name: ', line)
 
-print('"""Done"""')
-exit()
+exit('Bye..')
