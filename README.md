@@ -67,6 +67,8 @@ Install Chocolatey
 
 Go to [offical download page](https://www.mozilla.org/en-US/firefox/new/ "") or directly download it from [here](https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US "").
 
+Get it from [microsoft store](https://sample.html "").
+
 Install via Chocolatey:
 
     choco install firefox
