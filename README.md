@@ -26,7 +26,7 @@ Install via Chocolatey:
 
 ## Firefox Developer Edition
 
-[Firefox Developer Edition]( ""): a free and open-source web browser.
+[Firefox Developer Edition]( ""): a blazing fast browser that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging.
 
 Go to [offical download page](https://www.mozilla.org/en-US/firefox/developer/ "") or directly download it from [here](https://download.mozilla.org/?product=firefox-devedition-stub&os=win&lang=en-US "").
 
