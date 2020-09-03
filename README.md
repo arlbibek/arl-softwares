@@ -1,54 +1,5 @@
 # List of Softwares and Applications that I use daily.
 ![](images/desktop.png "Apps Icon Montage")
----
-<!-- ## Navigate
-+ [Microsoft Office 365](https://github.com/arlbibek/arl-softwares#Microsoft-Office-365 "")
-+ [Gramarly for Microsoft](https://github.com/arlbibek/arl-softwares#Gramarly-for-Microsoft "")
-+ [GIMP](https://github.com/arlbibek/arl-softwares#GIMP "")
-+ [Sharex](https://github.com/arlbibek/arl-softwares#Sharex "")
-+ [Paint.net](https://github.com/arlbibek/arl-softwares#Paint.net "")
-+ [Avdimux](https://github.com/arlbibek/arl-softwares#Avdimux "")
-+ [OBS Studio](https://github.com/arlbibek/arl-softwares#OBS-Studio "")
-+ [Adobe Premier Pro](https://github.com/arlbibek/arl-softwares#Adobe-Premier-Pro "")
-+ [VLC](https://github.com/arlbibek/arl-softwares#VLC "")
-+ [Spotify](https://github.com/arlbibek/arl-softwares#Spotify "")
-+ [MusicBee](https://github.com/arlbibek/arl-softwares#MusicBee "")
-+ [Discord](https://github.com/arlbibek/arl-softwares#Discord "")
-+ [Back Up and Sync](https://github.com/arlbibek/arl-softwares#Back-Up-and-Sync "")
-+ [Internet Download Manger](https://github.com/arlbibek/arl-softwares#Internet-Download-Manger "")
-+ [IDM trial reset](https://github.com/arlbibek/arl-softwares#IDM-trial-reset "")
-+ [qbittorrent](https://github.com/arlbibek/arl-softwares#qbittorrent "")
-+ [WebTorrent](https://github.com/arlbibek/arl-softwares#WebTorrent "")
-+ [syncthing](https://github.com/arlbibek/arl-softwares#syncthing "")
-+ [KeePass](https://github.com/arlbibek/arl-softwares#KeePass "")
-+ [winRAR](https://github.com/arlbibek/arl-softwares#winRAR "")
-+ [Sublime Text](https://github.com/arlbibek/arl-softwares#SublimeText "")
-+ [Notepad++](https://github.com/arlbibek/arl-softwares#Notepad++ "")
-+ [Calibre](https://github.com/arlbibek/arl-softwares#Calibre "")
-+ [SumatraPDF](https://github.com/arlbibek/arl-softwares#SumatraPDF "")
-+ [Oracle VirtualBox](https://github.com/arlbibek/arl-softwares#Oracle-VirtualBox "")
-+ [Debian - WSL](https://github.com/arlbibek/arl-softwares#Debian---WSL "")
-+ [Windows Terminal](https://github.com/arlbibek/arl-softwares#Windows-Terminal "")
-+ [Python ](https://github.com/arlbibek/arl-softwares#Python "")
-+ [Git](https://github.com/arlbibek/arl-softwares#Git "")
-+ [Cisco Packet Tracer](https://github.com/arlbibek/arl-softwares#Cisco-Packet-Tracer "")
-+ [ProtonVPN](https://github.com/arlbibek/arl-softwares#ProtonVPN "")
-+ [Others](https://github.com/arlbibek/arl-softwares#Others "")
-+ [ANDROID](https://github.com/arlbibek/arl-softwares#ANDROID "")
--->
-<!-- Tags
-* Literlly Can't Live Without
-! Need and alternative.
-$ A Must have.
-@ Doesn't use often
-^ Wouldn't use if i didn't have to.
-
-Open Source
-Github
-Commercial
-Freemium
-End of comment-->
----
 # Windows
 
 ## Chocolatey
@@ -70,6 +21,14 @@ Go to [offical download page](https://www.mozilla.org/en-US/firefox/new/ "") or 
 Install via Chocolatey:
 
     choco install firefox
+
+<!---->
+
+## Firefox Developer Edition
+
+[Firefox Developer Edition]( ""): a free and open-source web browser.
+
+Go to [offical download page](https://www.mozilla.org/en-US/firefox/developer/ "") or directly download it from [here](https://download.mozilla.org/?product=firefox-devedition-stub&os=win&lang=en-US "").
 
 <!---->
 
@@ -287,7 +246,8 @@ Go to [offical download page](https://keepass.info/download.html "") or directly
 
 <!---->
 
-## 7-Zip
+## 7-Zip 
+*Switched to winRAR recently*
 
 [7-Zip]( ""):
 
@@ -472,6 +432,7 @@ Go to [offical download page](https://www.netacad.com/portal/resources/packet-tr
 ### Others
 
 + [Atom](https://atom.io/ "")
+    Install via Chocolatey: `choco install atom`
 
 + [Android Studio]( "")
 
@@ -489,22 +450,16 @@ Go to [offical download page](https://www.netacad.com/portal/resources/packet-tr
 
     Install via Chocolatey: `choco install gns3`
 
-+ [Lively Wallpaper]( "")
-
 + [Mozilla Thunderbird]( "")
 
     Install via Chocolatey: `choco install thunderbird`
-
-+ [winRAR]( "")
-
-*Switched to 7-Zip recently*
 
 ---
 
 ## ANDROID
 
 + Lawchair 2
-+ Pixel pie icon pack
++ ~Pixel pie icon pack~ Pixel Q Icon Pack
 
 + Bose Connect
 + eSewa - Mobile Wallet (Nepal)
@@ -514,8 +469,10 @@ Go to [offical download page](https://www.netacad.com/portal/resources/packet-tr
 
 + 1.1.1.1 Faster & Safer Internet
 + Firefox Browser
-+ Brave Browser
++ ~Brave Browser~
 + Fing - Network Tools
++ Flud - Torrent Downloader
++ ~Portal - Wifi File Transfer~
 
 + eReader Prestigio: Book Reader
 + Xodo PDF Reader & Editor
@@ -523,31 +480,28 @@ Go to [offical download page](https://www.netacad.com/portal/resources/packet-tr
 + Dictonary - Marriam-Webster
 + Google Keep - Notes and Lists
 
-+ Flud - Torrent Downloader
-+ Portal - Wifi File Transfer
 + Quik - Free Video Editor
 + Automatic Tag Editor
-+ ~Mi Music (*Need an alternative*)~ Shuttle Music Player
++ ~Mi Music~ Shuttle Music Player
 
 + XE Currency Converter & Money Transfers
 + Mi Calculator
 + Free Scientific calculator
-+ Gboard - the Google Keyboard
++ ~Gboard - the Google Keyboard~ Simple Keyboard
 
-+ Google Drive
-+ Google Photos
-+ Google Classroom
++ Google [Drive, Photos, Classroom]
 + Maps - Navigation & Explore
 
 + Gmail
 + WhatsApp Messanger
-+ Relay for Reddit (*Misc*)
++ ~Relay for Reddit~
 + LinkedIn - Jobs, Business News & Social Networking
-+ YouTube
++ ~YouTube~ ~YouTube Vanced~ m.youtube.com
 
 + GitHub
 + Termux
 + Syncthing
++ F-Droid
 ---
 \# The End.
 
