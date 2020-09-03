@@ -1,4 +1,4 @@
-# List of Softwares and Applications that I use daily.
+# List of Softwares and Tools that I use on a daily basis.
 ![](images/desktop.png "Apps Icon Montage")
 # Windows
 
