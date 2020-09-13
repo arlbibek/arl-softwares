@@ -7,11 +7,11 @@
 # Firefox
 a free and open-source browser.
 
-- Directly download for windows from [here](https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US).
+- Go to [official download page](https://www.mozilla.org/en-US/firefox/new/) or directly download for windows from [here](https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-us).
 # Firefox Developer Edition
 another product of Mozilla that offers cutting edge developer tools and latest features like CSS Grid support and framework debugging.
 
-- Go to [official download page](https://www.mozilla.org/en-US/firefox/developer/).
+- Go to [official download page](https://www.mozilla.org/en-US/firefox/developer/) or directly download for windows from [here](https://download.mozilla.org/?product=firefox-devedition-stub&os=win&lang=en-us).
 # Tor
 a free and open-source software for enabling anonymous communication.
 
@@ -145,6 +145,7 @@ a free and open source distributed version control system designed to handle eve
 # XAMPP
 an easy to install Apache distribution containing MariaDB,  PHP, and Perl.
 
+- Go to [official download page](https://www.apachefriends.org/index.html) or directly download for windows from [here](https://www.apachefriends.org/xampp-files/7.4.10/xampp-windows-x64-7.4.10-0-vc15-installer.exe).
 # youtube-dl
 a small command-line program to download videos from YouTube.com and a few more sites.
 
