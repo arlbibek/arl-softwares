@@ -1,7 +1,6 @@
 @echo off
 cls
 git status
-echo
 echo This will pull and then push changes to git directory
 pause
 git pull
