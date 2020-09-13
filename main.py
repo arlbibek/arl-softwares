@@ -58,6 +58,7 @@ contents = data[1]
 defalut_lines = """
 # List of Softwares and Tools that I use on a daily basis.
 ![](images/desktop.png "Softwares Icon Montage")
+\n> This README is generated dynamically by main.py\n
 """
 other_apps = list()
 android_apps = list()

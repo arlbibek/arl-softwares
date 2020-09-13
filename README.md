@@ -1,6 +1,9 @@
 
 # List of Softwares and Tools that I use on a daily basis.
 ![](images/desktop.png "Softwares Icon Montage")
+
+> This README is generated dynamically by main.py
+
 # Firefox
 a free and open-source browser
 
