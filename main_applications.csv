@@ -1,6 +1,6 @@
 Application, Download Page Link, Direct Download Link(win)
-Firefox,,https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US
-Firefox Developer Edition,https://www.mozilla.org/en-US/firefox/developer/,
+Firefox,https://www.mozilla.org/en-US/firefox/new/,https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US
+Firefox Developer Edition,https://www.mozilla.org/en-US/firefox/developer/,https://download.mozilla.org/?product=firefox-devedition-stub&os=win&lang=en-US
 Tor,https://www.torproject.org/download/,https://www.torproject.org/dist/torbrowser/9.5.4/torbrowser-install-win64-9.5.4_en-US.exe
 Microsoft Office 365,https://www.microsoft.com/en-us/microsoft-365/microsoft-office,
 Gramarly for Microsoft,https://www.grammarly.com/office-addin,https://download-office.grammarly.com/latest/GrammarlyAddInSetup.exe
@@ -32,7 +32,7 @@ Microsoft PowerToys,https://github.com/microsoft/PowerToys/releases,https://gith
 Rufus,https://rufus.ie/,https://www.fosshub.com/Rufus.html?dwl=rufus-3.11p.exe
 Python3,https://www.python.org/downloads/,https://www.python.org/ftp/python/3.8.4/python-3.8.4-amd64.exe
 Git,https://git-scm.com/downloads,https://github.com/git-for-windows/git/releases/download/v2.27.0.windows.1/Git-2.27.0-64-bit.exe
-XAMPP,,
+XAMPP,https://www.apachefriends.org/index.html,https://www.apachefriends.org/xampp-files/7.4.10/xampp-windows-x64-7.4.10-0-VC15-installer.exe
 youtube-dl,https://github.com/ytdl-org/youtube-dl/releases,https://github.com/ytdl-org/youtube-dl/releases/tag/2020.09.06
 FFmpeg,https://ffmpeg.org/download.html,
 ProtonVPN,https://protonvpn.com/,
