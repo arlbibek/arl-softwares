@@ -46,7 +46,7 @@ def get_app_disc(a_name, d_file):
 # Location files on local folder
 file_softwares = 'main_applications.csv'
 file_disc = 'discriptions_applications.csv'
-file_markdown = 'SOFTWARES.md'
+file_markdown = 'README.md'
 
 data = get_softwares_info(file_softwares)
 # ['Application', ' Download Page Link', ' Direct Download Link']
