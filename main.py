@@ -83,8 +83,8 @@ with open(file_markdown, 'wt') as md:
 
         # Writing discriptions
         app_disc = get_app_disc(app_name, file_disc)
-        if not app_disc is None:
-            md.write(f'{app_disc}\n\n')
+        if app_disc is not None:
+            md.write(f'{app_disc}.\n\n')
 
         # Writting download links info
         if ' OR ' in ddl:
