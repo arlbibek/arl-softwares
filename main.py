@@ -93,7 +93,7 @@ with open(file_markdown, 'wt') as md:
             ddl2 = multi_ddl[1]
         # print(ddl)
         wr_dpl = f'Go to [official download page]({dpl})'
-        wr_ddl = f'Directly download for windows from [here]({ddl})'
+        wr_ddl = f'Directly download {app_name} for windows from [here]({ddl})'
 
         # When both Download Page link and Direct Download link is available
         if len(dpl) > 1 and len(ddl) > 1:
