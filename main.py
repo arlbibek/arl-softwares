@@ -51,7 +51,7 @@ file_markdown = 'README.md'
 data = get_softwares_info(file_softwares)
 # ['Application', ' Download Page Link', ' Direct Download Link']
 header = data[0]
-# contents = [['Firefox', 'https://www.mozilla.org/en-US/firefox/new/', 'https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US'],...]
+# Contents = [['Firefox', 'https://www.mozilla.org/en-US/firefox/new/', 'https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US'],...]
 contents = data[1]
 
 '''Creating MARKDOWN file with collected information'''
@@ -122,3 +122,13 @@ with open(file_markdown, 'wt') as md:
         for app in android_apps:
             md.write(f'{app}\n')
     md.write('<hr>\n')
+
+print(f"[Done] '{file_markdown}' created.")
+
+'''Auto updating changes to GitHub using gitPullPush.pu script'''
+print('Pushing changes to github.')
+try:
+    import gitPullPush
+    gitPullPush.pullPush()
+except ModuleNotFoundError as e:
+    print(f"Couldn't update changes to GitHub repo.\n{e}")

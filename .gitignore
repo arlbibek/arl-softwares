@@ -1,5 +1,5 @@
 #Ignoring local folders
-pullPush.bat
+gitPullPush.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
