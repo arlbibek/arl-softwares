@@ -218,9 +218,11 @@ A comprehensive package manager solution that consists of a command line tool an
 - Trail Sense
 - QR & Barcode Scanner
 - MoneyWallet 
+
 <hr>
 
 That is all.
 
 Best, 
+
 Your Lord and King.
