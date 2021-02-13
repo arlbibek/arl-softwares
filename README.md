@@ -181,9 +181,8 @@ A comprehensive package manager solution that consists of a command line tool an
 + VMware Workstation
 + GtkHash
 + Node.js
-+ 
-<hr>
 
+<hr>
 
 # Android Apps
 
@@ -220,3 +219,8 @@ A comprehensive package manager solution that consists of a command line tool an
 - QR & Barcode Scanner
 - MoneyWallet 
 <hr>
+
+That is all.
+
+Best, 
+Your Lord and King.
