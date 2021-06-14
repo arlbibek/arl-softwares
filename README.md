@@ -1,4 +1,4 @@
-# List of Softwares and Tools that I use on a daily basis
+# Softwares and Tools that I use on a daily basis
 
 Visit [webpage](http://www.bibeka.com.np/arl-softwares/).
 
@@ -283,9 +283,10 @@ An iterative algorithm to generate high quality triangulated and polygonal art f
 
 - https://www.lexilogos.com/keyboard/devanagari.htm
 
-```text
+---
+
 That is all.
 
 Best,
-Your Lord and King.
-```
+
+[Bibek Aryal](https://bibeka.com.np/arl-softwares/ "Bibek Aryal - Portfolio")
