@@ -4,7 +4,7 @@
 
 ## Desktop (Window10)
 
-> By Order of the ~Peaky Blinders~ importance.
+> By Order of the ~~Peaky Blinders~~ importance.
 
 ### Firefox
 
@@ -90,7 +90,7 @@ A free and open-source document viewer that supports viewing many document forma
 
 - Go to [official download page](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html).
 
-### ~Sublime Text~ Visual Studio Code
+### ~~Sublime Text~~ Visual Studio Code
 
 A code editor redefined and optimized for building and debugging modern web and cloud applications. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
 
@@ -200,16 +200,16 @@ An iterative algorithm to generate high quality triangulated and polygonal art f
 - Libre Office
 - OneNote
 - Slack
-- ~Windows Package Manager CLI (winget)~
-- ~Back Up and Sync from Google~
-- ~Signal~
-- ~Standard Notes~
-- ~MicrosoftEdge~
-- ~VMware Workstation~
-- ~Microsoft Office 365~
-- ~Gramarly for Microsoft~
-- ~Internet Download Manger~
-- ~IDM trial reset~
+- ~~Windows Package Manager CLI (winget)~~
+- ~~Back Up and Sync from Google~~
+- ~~Signal~~
+- ~~Standard Notes~~
+- ~~MicrosoftEdge~~
+- ~~VMware Workstation~~
+- ~~Microsoft Office 365~~
+- ~~Gramarly for Microsoft~~
+- ~~Internet Download Manger~~
+- ~~IDM trial reset~~
 
 ---
 
@@ -218,27 +218,27 @@ An iterative algorithm to generate high quality triangulated and polygonal art f
 - Bose Connect
 - Hamro Patro
 - 1.1.1.1 Faster & Safer Internet
-- ~Firefox Browser~ ~Brave Browser~ DuckDuckGo
+- ~~Firefox Browser~~ ~~Brave Browser~~ DuckDuckGo
 - Fing - Network Tools
 - Flud - Torrent Downloader
-- ~Portal - Wi-Fi File Transfer~
-- ~eReader Prestigio: Book Reader~ Moon Reader
+- ~~Portal - Wi-Fi File Transfer~~
+- ~~eReader Prestigio: Book Reader~~ Moon Reader
 - Xodo PDF Reader & Editor
 - Pocket: Save. Read. Grow.
 - Dictionary - Merriam-Webster
-- ~Google Keep~ ~Joplin~ ~Simple Notes~ ~Standard Notes~ Google Keep
+- ~~Google Keep~~ ~~Joplin~~ ~~Simple Notes~~ ~~Standard Notes~~ Google Keep
 - Automatic Tag Editor
-- ~Mi Music~ ~Shuttle Music Player~ S2 Music Player
+- ~~Mi Music~~ ~~Shuttle Music Player~~ S2 Music Player
 - XE Currency Converter & Money Transfers
-- ~Free Scientific calculator~
-- ~GBoard - the Google Keyboard~ Simple Keyboard
+- ~~Free Scientific calculator~~
+- ~~GBoard - the Google Keyboard~~ Simple Keyboard
 - Google (Drive; Photos; Classroom)
-- ~Maps - Navigation & Explore~ MAPS.ME
+- ~~Maps - Navigation & Explore~~ MAPS.ME
 - GMail
-- ~WhatsApp Messenger~ ~Signal~ WhatsApp Messenger
-- ~Relay for Reddit~ Infinity
-- ~LinkedIn~
-- ~YouTube~ ~YouTube Vanced~ ~m.youtube.com~ NewPipe
+- ~~WhatsApp Messenger~~ ~~Signal~~ WhatsApp Messenger
+- ~~Relay for Reddit~~ Infinity
+- ~~LinkedIn~~
+- ~~YouTube~~ ~~YouTube Vanced~~ ~~m.youtube.com~~ NewPipe
 - GitHub
 - Termux
 - Syncthing
