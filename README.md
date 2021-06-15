@@ -2,11 +2,11 @@
 
 Visit [webpage](http://www.bibeka.com.np/arl-softwares/).
 
-![](images/desktop.png "Softwares Icon Montage")
+![Softwares Icons Montage](images/desktop.png "Softwares Icons Montage")
 
 ## Desktop (Window10)
 
-> By Order of the ~~Peaky Blinders~~ importance.
+> By Order of the ~~Peaky Blinders~~ importance/usage.
 
 ### Firefox
 
@@ -61,6 +61,9 @@ Music streaming and media services provider.
 ### deemix
 
 A deezer downloader built from the ashes of Deezloader Remix.
+
+- Go to [official download page](https://download.deemix.app).
+- Check out the [reddit page](https://www.reddit.com/r/deemix/).
 
 ### OBS Studio
 
@@ -126,6 +129,7 @@ Compile and run Unix programs directly in the Windows Environment.
 
 A modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL.
 
+- Directly download Windows Terminal for windows from [here](https://www.microsoft.com/store/productId/9N0DX20HK701).
 - Go to [official download page](https://github.com/microsoft/terminal/releases).
 
 ### Microsoft PowerToys
@@ -208,7 +212,7 @@ An iterative algorithm to generate high quality triangulated and polygonal art f
 - ~~Standard Notes~~
 - ~~MicrosoftEdge~~
 - ~~VMware Workstation~~
-- ~~Microsoft Office 365~~
+- ~~Microsoft Office 365~~ Google Workspace
 - ~~Gramarly for Microsoft~~
 - ~~Internet Download Manger~~
 - ~~IDM trial reset~~
@@ -261,27 +265,27 @@ An iterative algorithm to generate high quality triangulated and polygonal art f
 
 ## Web
 
-- https://convertio.co/
-- https://smallpdf.com/
-- https://www.remove.bg/
-- https://mp3clan.com/
-- https://www.audiolibrary.com.co/
-- https://mixkit.co/
+- [Convertio — File Converter](https://convertio.co/)
+- [Smallpdf.com - A Free Solution to all your PDF Problems](https://smallpdf.com/)
+- [Remove Background from Image - remove.bg](https://www.remove.bg/)
+- [mp3Clan - Free Music Download](https://mp3clan.com/)
+- [Audio Library · No Copyright Music](https://www.audiolibrary.com.co/)
+- [Mixkit - Awesome free assets for your next video project](https://mixkit.co/)
 
-- https://10minutemail.net/
-- https://www.guerrillamail.com/
-- https://www.futureme.org/
-- https://emkei.cz/
+- [10 Minute Mail](https://10minutemail.net/)
+- [Guerrilla Mail - Disposable Temporary E-Mail Address](https://www.guerrillamail.com/)
+- [FutureMe: Write a Letter to your Future Self](https://www.futureme.org/)
+- [Emkei's Fake Mailer](https://emkei.cz/)
 
-- https://colab.research.google.com/github/K-E-N-W-A-Y/Skillshare-DL/blob/master/Skillshare_DL_%5BKENWAY%5D.ipynb
-- https://sci-hub.hkvisa.net/
-- https://alternativeto.net/
+- [Skillshare-DL](https://colab.research.google.com/github/K-E-N-W-A-Y/Skillshare-DL/blob/master/Skillshare*DL*%5BKENWAY%5D.ipynb)
+- [Sci-Hub](https://sci-hub.hkvisa.net/)
+- [AlternativeTo - Crowdsourced software recommendations](https://alternativeto.net/)
 
-- https://www.thiswebsitewillselfdestruct.com/
-- https://www.bouncingdvdlogo.com/
-- https://neal.fun/
+- [This Website Will Self Destruct](https://www.thiswebsitewillselfdestruct.com/)
+- [Bouncing DVD logo](https://www.bouncingdvdlogo.com/)
+- [Neal.fun](https://neal.fun/)
 
-- https://www.lexilogos.com/keyboard/devanagari.htm
+- [Devanagari Keyboard Online • Hindi Alphabet • LEXILOGOS](https://www.lexilogos.com/keyboard/devanagari.htm)
 
 ---
 
@@ -289,4 +293,4 @@ That is all.
 
 Best,
 
-[Bibek Aryal](https://bibeka.com.np/arl-softwares/ "Bibek Aryal - Portfolio")
+[Bibek Aryal](https://bibeka.com.np/ "Bibek Aryal - Portfolio")
