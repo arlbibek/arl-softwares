@@ -1,7 +1,5 @@
 # Softwares and Tools that I use on a daily basis
 
-Visit [webpage](http://arlbibek.github.io/arl-softwares/).
-
 ![Softwares Icons Montage](images/desktop.png "Softwares Icons Montage")
 
 ## Desktop (Window10)
