@@ -261,32 +261,6 @@ An iterative algorithm to generate high quality triangulated and polygonal art f
 
 ---
 
-## Web
-
-- [Convertio — File Converter](https://convertio.co/)
-- [Smallpdf.com - A Free Solution to all your PDF Problems](https://smallpdf.com/)
-- [Remove Background from Image - remove.bg](https://www.remove.bg/)
-- [mp3Clan - Free Music Download](https://mp3clan.com/)
-- [Audio Library · No Copyright Music](https://www.audiolibrary.com.co/)
-- [Mixkit - Awesome free assets for your next video project](https://mixkit.co/)
-
-- [10 Minute Mail](https://10minutemail.net/)
-- [Guerrilla Mail - Disposable Temporary E-Mail Address](https://www.guerrillamail.com/)
-- [FutureMe: Write a Letter to your Future Self](https://www.futureme.org/)
-- [Emkei's Fake Mailer](https://emkei.cz/)
-
-- [Skillshare-DL](https://colab.research.google.com/github/K-E-N-W-A-Y/Skillshare-DL/blob/master/Skillshare*DL*%5BKENWAY%5D.ipynb)
-- [Sci-Hub](https://sci-hub.hkvisa.net/)
-- [AlternativeTo - Crowdsourced software recommendations](https://alternativeto.net/)
-
-- [This Website Will Self Destruct](https://www.thiswebsitewillselfdestruct.com/)
-- [Bouncing DVD logo](https://www.bouncingdvdlogo.com/)
-- [Neal.fun](https://neal.fun/)
-
-- [Devanagari Keyboard Online • Hindi Alphabet • LEXILOGOS](https://www.lexilogos.com/keyboard/devanagari.htm)
-
----
-
 That is all.
 
 Best,
