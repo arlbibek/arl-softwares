@@ -16,18 +16,17 @@ A free and open-source browser.
 
 #### Browser Extensions
 
-- uBlock Origin - an efficient blocker. Easy on CPU and memory.
-- HTTPS Everywhere - Encrypt the Web! Automatically use HTTPS security on many sites.
-- DuckDuckGo Privacy Essentials - Privacy, simplified. Protect your data as you search and browse: tracker blocking, smarter encryption, private search, and more.
-- Enhancer for YouTube - Take control of YouTube and boost your user experience!
-- Privacy Badger - automatically learns to block invisible trackers.
-- Wikiwand: Wikipedia Modernized - Good old Wikipedia gets a great new look.
-- Facebook Container - isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
-- SingleFile - Save a complete page into a single HTML file.
-- Decentraleyes - Protects you against tracking through "free", centralized, content delivery.
-- ClearURLs - Remove tracking elements from URLs.
-- Grammarly - Enhance your written communication everywhere you type!
-
+- [uBlock Origin](https://ublockorigin.com/) - an efficient blocker. Easy on CPU and memory.
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Encrypt the Web! Automatically use HTTPS security on many sites.
+- [DuckDuckGo Privacy Essentials](https://duckduckgo.com/) - Privacy, simplified. Protect your data as you search and browse: tracker blocking, smarter encryption, private search, and more.
+- [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) - Take control of YouTube and boost your user experience!
+- [Privacy Badger](https://privacybadger.org/) - automatically learns to block invisible trackers.
+- [Wikiwand: Wikipedia Modernized](https://origin-production.wikiwand.com/) - Good old Wikipedia gets a great new look.
+- [Facebook Container](https://www.mozilla.org/en-US/firefox/facebookcontainer/) - isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
+- [SingleFile](https://github.com/gildas-lormeau/SingleFile#install) - Save a complete page into a single HTML file.
+- [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery.
+- [ClearURLs](https://github.com/ClearURLs/Homepage) - Remove tracking elements from URLs.
+- [Grammarly](https://www.grammarly.com/) - Enhance your written communication everywhere you type!
 ### 7-Zip
 
 A free and open-source file archiver, a utility used to place groups of files within compressed containers known as 'archives'.
