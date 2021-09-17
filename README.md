@@ -12,33 +12,43 @@ A free and open-source browser.
 
 - Go to [official download page](https://www.mozilla.org/en-US/firefox/new/).
 
-> I actually use the [Developer Edition](https://www.mozilla.org/en-US/firefox/developer/).
+- Browser extensions
+  - [uBlock Origin](https://ublockorigin.com/) - an efficient blocker. Easy on CPU and memory.
+  - [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Encrypt the Web! Automatically use HTTPS security on many sites.
+  - [DuckDuckGo Privacy Essentials](https://duckduckgo.com/) - Privacy, simplified. Protect your data as you search and browse: tracker blocking, smarter encryption, private search, and more.
+  - [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) - Take control of YouTube and boost your user experience!
+  - [Privacy Badger](https://privacybadger.org/) - automatically learns to block invisible trackers.
+  - [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery.
+  - [Wikiwand: Wikipedia Modernized](https://origin-production.wikiwand.com/) - Good old Wikipedia gets a great new look.
+  - [Facebook Container](https://www.mozilla.org/en-US/firefox/facebookcontainer/) - isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
+  - [SingleFile](https://github.com/gildas-lormeau/SingleFile#install) - Save a complete page into a single HTML file.
+  - [ClearURLs](https://github.com/ClearURLs/Homepage) - Remove tracking elements from URLs.
+  - [Grammarly](https://www.grammarly.com/) - Enhance your written communication everywhere you type!
 
-#### Browser Extensions
-
-- [uBlock Origin](https://ublockorigin.com/) - an efficient blocker. Easy on CPU and memory.
-- [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Encrypt the Web! Automatically use HTTPS security on many sites.
-- [DuckDuckGo Privacy Essentials](https://duckduckgo.com/) - Privacy, simplified. Protect your data as you search and browse: tracker blocking, smarter encryption, private search, and more.
-- [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) - Take control of YouTube and boost your user experience!
-- [Privacy Badger](https://privacybadger.org/) - automatically learns to block invisible trackers.
-- [Wikiwand: Wikipedia Modernized](https://origin-production.wikiwand.com/) - Good old Wikipedia gets a great new look.
-- [Facebook Container](https://www.mozilla.org/en-US/firefox/facebookcontainer/) - isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
-- [SingleFile](https://github.com/gildas-lormeau/SingleFile#install) - Save a complete page into a single HTML file.
-- [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery.
-- [ClearURLs](https://github.com/ClearURLs/Homepage) - Remove tracking elements from URLs.
-- [Grammarly](https://www.grammarly.com/) - Enhance your written communication everywhere you type!
 ### 7-Zip
 
 A free and open-source file archiver, a utility used to place groups of files within compressed containers known as 'archives'.
 
 - Go to [official download page](https://www.7-zip.org/download.html).
 
-### Sharex
+### PyDebloatX
+
+A free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
+
+- Go to [official GitHub page](https://github.com/Teraskull/PyDebloatX).
+- Download from one of the [releases](https://github.com/Teraskull/PyDebloatX/releases).
+
+### O&O ShutUp10
+
+A Free antispy tool for Windows 10.
+
+- Go to [official download page](https://www.oo-software.com/en/shutup10).
+
+### ShareX
 
 A free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
 
 - Go to [official download page](https://getsharex.com/).
-
 - Install Microsoft store version from [here](https://www.microsoft.com/store/productId/9NBLGGH4Z1SP).
 
 ### VLC
@@ -55,13 +65,6 @@ Music streaming and media services provider.
 
 - Install Microsoft store version from [here](https://www.microsoft.com/store/productId/9NCBCSZSJRSB).
 
-### deemix
-
-A deezer downloader built from the ashes of Deezloader Remix.
-
-- Go to [official download page](https://download.deemix.app).
-- Check out the [reddit page](https://www.reddit.com/r/deemix/).
-
 ### OBS Studio
 
 A free and open-source cross-platform streaming and recording program built with Qt.
@@ -70,7 +73,7 @@ A free and open-source cross-platform streaming and recording program built with
 
 ### youtube-dl
 
-A small command-line program to download videos from YouTube.com and a few more sites.
+A small command-line program to download videos from youtube.com and a few more sites.
 
 - Go to [official download page](https://github.com/ytdl-org/youtube-dl/releases).
 
@@ -116,11 +119,11 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 - Go to [official download page](https://nodejs.org/en/download/).
 
-### Debian - WSL
+### AutoHotkey
 
-Compile and run Unix programs directly in the Windows Environment.
+A free, open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks such as: form fillers, auto-clicking, macros, etc.
 
-- Directly download Debian - WSL for windows from [here](https://www.microsoft.com/store/apps/9MSVKQC78PK6).
+- Go to [official download page](https://www.autohotkey.com/download/).
 
 ### Windows Terminal
 
@@ -129,11 +132,11 @@ A modern, fast, efficient, powerful, and productive terminal application for use
 - Directly download Windows Terminal for windows from [here](https://www.microsoft.com/store/productId/9N0DX20HK701).
 - Go to [official download page](https://github.com/microsoft/terminal/releases).
 
-### Microsoft PowerToys
+### Debian - WSL
 
-A set of freeware system utilities designed for power users developed by Microsoft for use on the Windows operating system..
+Compile and run Unix programs directly in the Windows Environment.
 
-- Go to [official download page](https://github.com/microsoft/PowerToys/releases).
+- Directly download Debian - WSL for windows from [here](https://www.microsoft.com/store/apps/9MSVKQC78PK6).
 
 ### GtkHash
 
@@ -146,8 +149,14 @@ A desktop utility for computing message digests or checksums.
 A freeware media player for playback and organization of audio files.
 
 - Go to [official download page](https://getmusicbee.com/downloads/).
-
 - Install Microsoft store version from [here](https://www.microsoft.com/store/productId/9P4CLT2RJ1RS).
+
+### deemix
+
+A deezer downloader built from the ashes of Deezloader Remix.
+
+- Go to [official download page](https://download.deemix.app).
+- Check out the [reddit page](https://www.reddit.com/r/deemix/).
 
 ### GIMP
 
@@ -155,23 +164,11 @@ A free and open-source raster graphics editor used for image retouching and edit
 
 - Go to [official download page](https://www.gimp.org/downloads/).
 
-### Adobe Premier Pro
+### Joplin
 
-A industry-leading video editing software for film, TV, and the web.
+An excellent open source note taking application with plenty of features. You can take notes, make to-do list and sync your notes across devices by linking it with cloud services. The synchronization is protected with end to end encryption.
 
-- Go to [official download page](https://www.adobe.com/products/premiere.html).
-
-### Oracle VirtualBox
-
-A free and open-source hosted hypervisor for x86 virtualization.
-
-- Go to [official download page](https://www.virtualbox.org/wiki/Downloads).
-
-### Calibre
-
-A cross-platform open-source suite of e-book software (one stop solution for all your e-book needs).
-
-- Go to [official download page](https://www.fosshub.com/Calibre.html).
+- Go to [official page](https://joplinapp.org/).
 
 ### Avdimux
 
@@ -191,25 +188,28 @@ A complete, cross-platform solution to record, convert and stream audio and vide
 
 - Go to [official download page](https://ffmpeg.org/download.html).
 
-### Triangula
+### scrcpy
 
-An iterative algorithm to generate high quality triangulated and polygonal art from images.
+Display and control your Android device.
 
-- Go to [official download page](https://github.com/RH12503/triangula/releases).
+- Go to [official GitHub page](https://github.com/Genymobile/scrcpy).
+- Download from one of the [releases](https://github.com/Genymobile/scrcpy/releases).
 
-### Meh
+#### Meh
 
+- Windows Package Manager CLI (winget)
+- Discord
 - Google Chrome
-- Libre Office
-- OneNote
 - Slack
-- ~~Windows Package Manager CLI (winget)~~
+- OneNote
+- Microsoft Office 365
+- Google Workspace
+- ~~Calibre~~
 - ~~Back Up and Sync from Google~~
 - ~~Signal~~
 - ~~Standard Notes~~
 - ~~MicrosoftEdge~~
 - ~~VMware Workstation~~
-- ~~Microsoft Office 365~~ Google Workspace
 - ~~Gramarly for Microsoft~~
 - ~~Internet Download Manger~~
 - ~~IDM trial reset~~
@@ -220,23 +220,22 @@ An iterative algorithm to generate high quality triangulated and polygonal art f
 
 - Bose Connect
 - Hamro Patro
-- 1.1.1.1 Faster & Safer Internet
+- ~~1.1.1.1 Faster & Safer Internet~~
 - ~~Firefox Browser~~ ~~Brave Browser~~ DuckDuckGo
 - Fing - Network Tools
 - Flud - Torrent Downloader
-- ~~Portal - Wi-Fi File Transfer~~
 - ~~eReader Prestigio: Book Reader~~ Moon Reader
 - Xodo PDF Reader & Editor
-- Pocket: Save. Read. Grow.
 - Dictionary - Merriam-Webster
-- ~~Google Keep~~ ~~Joplin~~ ~~Simple Notes~~ ~~Standard Notes~~ Google Keep
-- Automatic Tag Editor
-- ~~Mi Music~~ ~~Shuttle Music Player~~ S2 Music Player
+- ~~Google Keep~~ ~~Joplin~~ ~~Simple Notes~~ ~~Standard Notes~~ ~~Google Keep~~ Joplin
+- ~~Automatic Tag Editor~~
+- ~~Mi Music~~ ~~Shuttle Music Player~~ ~~S2 Music Player~~ Retro Music
 - XE Currency Converter & Money Transfers
 - ~~Free Scientific calculator~~
 - ~~GBoard - the Google Keyboard~~ Simple Keyboard
-- Google (Drive; Photos; Classroom)
-- ~~Maps - Navigation & Explore~~ MAPS.ME
+- Google (Drive; Photos; ~~Classroom~~)
+- Maps - Navigation & Explore
+- MAPS.ME
 - GMail
 - ~~WhatsApp Messenger~~ ~~Signal~~ WhatsApp Messenger
 - ~~Relay for Reddit~~ Infinity
@@ -249,12 +248,11 @@ An iterative algorithm to generate high quality triangulated and polygonal art f
 - Trail Sense
 - QR & Barcode Scanner
 - MoneyWallet
-- Slack
+- ~~Slack~~
 - Bodhi Timer
-- GoPro Quik
+- ~~GoPro Quik~~
 - Smart AudioBook Player
 - Spotify
-- QR & Barcode Scanner
 - Recorder - Google
 - Minesweeper - The Clean One
 
