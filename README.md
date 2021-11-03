@@ -15,14 +15,14 @@ A free and open-source browser.
 - Browser extensions
   - [uBlock Origin](https://ublockorigin.com/) - an efficient blocker. Easy on CPU and memory.
   - [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Encrypt the Web! Automatically use HTTPS security on many sites.
-  - [DuckDuckGo Privacy Essentials](https://duckduckgo.com/) - Privacy, simplified. Protect your data as you search and browse: tracker blocking, smarter encryption, private search, and more.
-  - [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) - Take control of YouTube and boost your user experience!
-  - [Privacy Badger](https://privacybadger.org/) - automatically learns to block invisible trackers.
   - [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery.
-  - [Wikiwand: Wikipedia Modernized](https://origin-production.wikiwand.com/) - Good old Wikipedia gets a great new look.
-  - [Facebook Container](https://www.mozilla.org/en-US/firefox/facebookcontainer/) - isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
-  - [SingleFile](https://github.com/gildas-lormeau/SingleFile#install) - Save a complete page into a single HTML file.
   - [ClearURLs](https://github.com/ClearURLs/Homepage) - Remove tracking elements from URLs.
+  - [Privacy Badger](https://privacybadger.org/) - automatically learns to block invisible trackers.
+  - [DuckDuckGo Privacy Essentials](https://duckduckgo.com/) - Privacy, simplified. Protect your data as you search and browse: tracker blocking, smarter encryption, private search, and more.
+  - [Facebook Container](https://www.mozilla.org/en-US/firefox/facebookcontainer/) - isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
+  - [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) - Take control of YouTube and boost your user experience!
+  - [Wikiwand: Wikipedia Modernized](https://origin-production.wikiwand.com/) - Good old Wikipedia gets a great new look.
+  - [SingleFile](https://github.com/gildas-lormeau/SingleFile#install) - Save a complete page into a single HTML file.
   - [Grammarly](https://www.grammarly.com/) - Enhance your written communication everywhere you type!
 
 ### 7-Zip
@@ -51,56 +51,6 @@ A free and open source program that lets you capture or record any area of your 
 - Go to [official download page](https://getsharex.com/).
 - Install Microsoft store version from [here](https://www.microsoft.com/store/productId/9NBLGGH4Z1SP).
 
-### VLC
-
-A free and open source cross-platform multimedia player and framework.
-
-- Go to [official download page](https://www.videolan.org/vlc/).
-
-### Spotify
-
-Music streaming and media services provider.
-
-- Go to [official download page](https://www.spotify.com/us/download/other/).
-
-- Install Microsoft store version from [here](https://www.microsoft.com/store/productId/9NCBCSZSJRSB).
-
-### OBS Studio
-
-A free and open-source cross-platform streaming and recording program built with Qt.
-
-- Go to [official download page](https://obsproject.com/).
-
-### youtube-dl
-
-A small command-line program to download videos from youtube.com and a few more sites.
-
-- Go to [official download page](https://github.com/ytdl-org/youtube-dl/releases).
-
-### qbittorrent
-
-A free and open-source BitTorrent client.
-
-- Go to [official download page](https://www.qbittorrent.org/download.php).
-
-### syncthing
-
-A free, open-source peer-to-peer file synchronization application.
-
-- Go to [official download page](https://syncthing.net/downloads/).
-
-### SumatraPDF
-
-A free and open-source document viewer that supports viewing many document formats as quick and light as possible.
-
-- Go to [official download page](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html).
-
-### ~~Sublime Text~~ Visual Studio Code
-
-A code editor redefined and optimized for building and debugging modern web and cloud applications. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
-
-- Go to [official download page](https://code.visualstudio.com/).
-
 ### Python3
 
 An interpreted, high-level, general-purpose programming language..
@@ -119,11 +69,11 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 - Go to [official download page](https://nodejs.org/en/download/).
 
-### AutoHotkey
+### ~~Sublime Text~~ Visual Studio Code
 
-A free, open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks such as: form fillers, auto-clicking, macros, etc.
+A code editor redefined and optimized for building and debugging modern web and cloud applications. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
 
-- Go to [official download page](https://www.autohotkey.com/download/).
+- Go to [official download page](https://code.visualstudio.com/).
 
 ### Windows Terminal
 
@@ -138,18 +88,61 @@ Compile and run Unix programs directly in the Windows Environment.
 
 - Directly download Debian - WSL for windows from [here](https://www.microsoft.com/store/apps/9MSVKQC78PK6).
 
-### GtkHash
+### SumatraPDF
 
-A desktop utility for computing message digests or checksums.
+A free and open-source document viewer that supports viewing many document formats as quick and light as possible.
 
-- Go to [official download page](https://gtkhash.org/).
+- Go to [official download page](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html).
 
-### MusicBee
+### Spotify
 
-A freeware media player for playback and organization of audio files.
+Music streaming and media services provider.
 
-- Go to [official download page](https://getmusicbee.com/downloads/).
-- Install Microsoft store version from [here](https://www.microsoft.com/store/productId/9P4CLT2RJ1RS).
+- Go to [official download page](https://www.spotify.com/us/download/other/).
+
+- Install Microsoft store version from [here](https://www.microsoft.com/store/productId/9NCBCSZSJRSB).
+
+### VLC
+
+A free and open source cross-platform multimedia player and framework.
+
+- Go to [official download page](https://www.videolan.org/vlc/).
+
+### OBS Studio
+
+A free and open-source cross-platform streaming and recording program built with Qt.
+
+- Go to [official download page](https://obsproject.com/).
+
+### syncthing
+
+A free, open-source peer-to-peer file synchronization application.
+
+- Go to [official download page](https://syncthing.net/downloads/).
+
+### youtube-dl
+
+A small command-line program to download videos from youtube.com and a few more sites.
+
+- Go to [official download page](https://github.com/ytdl-org/youtube-dl/releases).
+
+### FFmpeg
+
+A complete, cross-platform solution to record, convert and stream audio and video.
+
+- Go to [official download page](https://ffmpeg.org/download.html).
+
+### Joplin
+
+An excellent open source note taking application with plenty of features. You can take notes, make to-do list and sync your notes across devices by linking it with cloud services. The synchronization is protected with end to end encryption.
+
+- Go to [official page](https://joplinapp.org/).
+
+### AutoHotkey
+
+A free, open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks such as: form fillers, auto-clicking, macros, etc.
+
+- Go to [official download page](https://www.autohotkey.com/download/).
 
 ### deemix
 
@@ -164,12 +157,6 @@ A free and open-source raster graphics editor used for image retouching and edit
 
 - Go to [official download page](https://www.gimp.org/downloads/).
 
-### Joplin
-
-An excellent open source note taking application with plenty of features. You can take notes, make to-do list and sync your notes across devices by linking it with cloud services. The synchronization is protected with end to end encryption.
-
-- Go to [official page](https://joplinapp.org/).
-
 ### Avdimux
 
 A free video editor designed for simple cutting, filtering an encoding tasks.
@@ -182,12 +169,6 @@ A small application that creates bootable USB drives, which can then be used to 
 
 - Go to [official download page](https://rufus.ie/).
 
-### FFmpeg
-
-A complete, cross-platform solution to record, convert and stream audio and video.
-
-- Go to [official download page](https://ffmpeg.org/download.html).
-
 ### scrcpy
 
 Display and control your Android device.
@@ -197,13 +178,12 @@ Display and control your Android device.
 
 #### Meh
 
-- Windows Package Manager CLI (winget)
-- Discord
 - Google Chrome
 - Slack
+- Discord
 - OneNote
 - Microsoft Office 365
-- Google Workspace
+- ~~Windows Package Manager CLI (winget)~~
 - ~~Calibre~~
 - ~~Back Up and Sync from Google~~
 - ~~Signal~~
@@ -219,7 +199,7 @@ Display and control your Android device.
 ## Android Apps
 
 - Bose Connect
-- Hamro Patro
+- ~~Hamro Patro~~ Ramro Patro
 - ~~1.1.1.1 Faster & Safer Internet~~
 - ~~Firefox Browser~~ ~~Brave Browser~~ DuckDuckGo
 - Fing - Network Tools
@@ -237,8 +217,7 @@ Display and control your Android device.
 - Maps - Navigation & Explore
 - MAPS.ME
 - GMail
-- ~~WhatsApp Messenger~~ ~~Signal~~ WhatsApp Messenger
-- ~~Relay for Reddit~~ Infinity
+- ~~Relay for Reddit~~ ~~Infinity~~
 - ~~LinkedIn~~
 - ~~YouTube~~ ~~YouTube Vanced~~ ~~m.youtube.com~~ NewPipe
 - GitHub
@@ -260,6 +239,4 @@ Display and control your Android device.
 
 That is all.
 
-Best,
-
-[Bibek Aryal](https://bibeka.com.np/ "Bibek Aryal - Portfolio")
+Made with ❤️ by [Bibek Aryal](https://bibeka.com.np/).
