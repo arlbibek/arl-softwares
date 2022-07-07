@@ -1,0 +1,846 @@
+{
+  "AuxAudioDevice1": {
+    "balance": 0.5,
+    "deinterlace_field_order": 0,
+    "deinterlace_mode": 0,
+    "enabled": true,
+    "flags": 0,
+    "hotkeys": {
+      "libobs.mute": [],
+      "libobs.push-to-mute": [],
+      "libobs.push-to-talk": [],
+      "libobs.unmute": []
+    },
+    "id": "wasapi_input_capture",
+    "mixers": 255,
+    "monitoring_type": 0,
+    "muted": true,
+    "name": "Mic/Aux",
+    "prev_ver": 436207618,
+    "private_settings": {
+      "mixer_hidden": true
+    },
+    "push-to-mute": false,
+    "push-to-mute-delay": 0,
+    "push-to-talk": false,
+    "push-to-talk-delay": 0,
+    "settings": {
+      "device_id": "default"
+    },
+    "sync": 0,
+    "versioned_id": "wasapi_input_capture",
+    "volume": 1.0
+  },
+  "DesktopAudioDevice1": {
+    "balance": 0.5,
+    "deinterlace_field_order": 0,
+    "deinterlace_mode": 0,
+    "enabled": true,
+    "flags": 0,
+    "hotkeys": {
+      "libobs.mute": [],
+      "libobs.push-to-mute": [],
+      "libobs.push-to-talk": [],
+      "libobs.unmute": []
+    },
+    "id": "wasapi_output_capture",
+    "mixers": 255,
+    "monitoring_type": 0,
+    "muted": true,
+    "name": "Desktop Audio",
+    "prev_ver": 436207618,
+    "private_settings": {
+      "mixer_hidden": true
+    },
+    "push-to-mute": false,
+    "push-to-mute-delay": 0,
+    "push-to-talk": false,
+    "push-to-talk-delay": 0,
+    "settings": {
+      "device_id": "default"
+    },
+    "sync": 0,
+    "versioned_id": "wasapi_output_capture",
+    "volume": 1.0
+  },
+  "current_program_scene": "Display + AI (LMic) + AO (Headphones (BT and Aux) (Rec)",
+  "current_scene": "Display + AI (LMic) + AO (Headphones (BT and Aux) (Rec)",
+  "current_transition": "Fade",
+  "groups": [],
+  "modules": {
+    "auto-scene-switcher": {
+      "active": false,
+      "interval": 300,
+      "non_matching_scene": "",
+      "switch_if_not_matching": false,
+      "switches": []
+    },
+    "captions": {
+      "enabled": false,
+      "lang_id": 1033,
+      "provider": "mssapi",
+      "source": ""
+    },
+    "output-timer": {
+      "autoStartRecordTimer": false,
+      "autoStartStreamTimer": false,
+      "pauseRecordTimer": true,
+      "recordTimerHours": 0,
+      "recordTimerMinutes": 0,
+      "recordTimerSeconds": 30,
+      "streamTimerHours": 0,
+      "streamTimerMinutes": 0,
+      "streamTimerSeconds": 30
+    },
+    "scripts-tool": []
+  },
+  "name": "Untitled",
+  "preview_locked": false,
+  "quick_transitions": [
+    {
+      "duration": 300,
+      "fade_to_black": false,
+      "hotkeys": [],
+      "id": 1,
+      "name": "Cut"
+    },
+    {
+      "duration": 300,
+      "fade_to_black": false,
+      "hotkeys": [],
+      "id": 2,
+      "name": "Fade"
+    },
+    {
+      "duration": 300,
+      "fade_to_black": true,
+      "hotkeys": [],
+      "id": 3,
+      "name": "Fade"
+    }
+  ],
+  "saved_projectors": [],
+  "scaling_enabled": false,
+  "scaling_level": 0,
+  "scaling_off_x": 0.0,
+  "scaling_off_y": 0.0,
+  "scene_order": [
+    {
+      "name": "Display Only"
+    },
+    {
+      "name": "Display + AI (LMic)"
+    },
+    {
+      "name": "Display + AO (LSpeakers)"
+    },
+    {
+      "name": "Display + AI (LMic) + AO (LSpeakers)"
+    },
+    {
+      "name": "Display + AI (LMic) + AO (Headphones (BT and Aux) (Rec)"
+    }
+  ],
+  "sources": [
+    {
+      "balance": 0.5,
+      "deinterlace_field_order": 0,
+      "deinterlace_mode": 0,
+      "enabled": true,
+      "flags": 0,
+      "hotkeys": {
+        "libobs.mute": [],
+        "libobs.push-to-mute": [],
+        "libobs.push-to-talk": [],
+        "libobs.unmute": []
+      },
+      "id": "wasapi_input_capture",
+      "mixers": 255,
+      "monitoring_type": 0,
+      "muted": false,
+      "name": "Audio Input Capture (Laptop Mic)",
+      "prev_ver": 436207618,
+      "private_settings": {},
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "settings": {
+        "device_id": "{0.0.1.00000000}.{0e651c46-5571-4c4d-a932-b6ee5b898f14}",
+        "use_device_timing": true
+      },
+      "sync": 0,
+      "versioned_id": "wasapi_input_capture",
+      "volume": 1.0
+    },
+    {
+      "balance": 0.5,
+      "deinterlace_field_order": 0,
+      "deinterlace_mode": 0,
+      "enabled": true,
+      "flags": 0,
+      "hotkeys": {
+        "OBSBasic.SelectScene": [],
+        "libobs.hide_scene_item.Audio Input Capture (Laptop Mic)": [],
+        "libobs.hide_scene_item.Display Capture": [],
+        "libobs.show_scene_item.Audio Input Capture (Laptop Mic)": [],
+        "libobs.show_scene_item.Display Capture": []
+      },
+      "id": "scene",
+      "mixers": 0,
+      "monitoring_type": 0,
+      "muted": false,
+      "name": "Display + AI (LMic)",
+      "prev_ver": 436207618,
+      "private_settings": {},
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "settings": {
+        "custom_size": false,
+        "id_counter": 2,
+        "items": [
+          {
+            "align": 5,
+            "bounds": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "bounds_align": 0,
+            "bounds_type": 0,
+            "crop_bottom": 0,
+            "crop_left": 0,
+            "crop_right": 0,
+            "crop_top": 0,
+            "group_item_backup": false,
+            "id": 2,
+            "locked": false,
+            "name": "Audio Input Capture (Laptop Mic)",
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "private_settings": {},
+            "rot": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "scale_filter": "disable",
+            "visible": true
+          },
+          {
+            "align": 5,
+            "bounds": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "bounds_align": 0,
+            "bounds_type": 0,
+            "crop_bottom": 0,
+            "crop_left": 0,
+            "crop_right": 0,
+            "crop_top": 0,
+            "group_item_backup": false,
+            "id": 1,
+            "locked": false,
+            "name": "Display Capture",
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "private_settings": {},
+            "rot": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "scale_filter": "disable",
+            "visible": true
+          }
+        ]
+      },
+      "sync": 0,
+      "versioned_id": "scene",
+      "volume": 1.0
+    },
+    {
+      "balance": 0.5,
+      "deinterlace_field_order": 0,
+      "deinterlace_mode": 0,
+      "enabled": true,
+      "flags": 0,
+      "hotkeys": {
+        "libobs.mute": [],
+        "libobs.push-to-mute": [],
+        "libobs.push-to-talk": [],
+        "libobs.unmute": []
+      },
+      "id": "wasapi_output_capture",
+      "mixers": 255,
+      "monitoring_type": 0,
+      "muted": false,
+      "name": "Headphone (Aux)",
+      "prev_ver": 436207618,
+      "private_settings": {},
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "settings": {
+        "device_id": "{0.0.0.00000000}.{131f889c-28d6-446b-af9c-8b8bac665022}"
+      },
+      "sync": 0,
+      "versioned_id": "wasapi_output_capture",
+      "volume": 1.0
+    },
+    {
+      "balance": 0.5,
+      "deinterlace_field_order": 0,
+      "deinterlace_mode": 0,
+      "enabled": true,
+      "flags": 0,
+      "hotkeys": {
+        "libobs.mute": [],
+        "libobs.push-to-mute": [],
+        "libobs.push-to-talk": [],
+        "libobs.unmute": []
+      },
+      "id": "wasapi_output_capture",
+      "mixers": 255,
+      "monitoring_type": 0,
+      "muted": false,
+      "name": "Headphone (BT)",
+      "prev_ver": 436207618,
+      "private_settings": {},
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "settings": {
+        "device_id": "{0.0.0.00000000}.{64efcce4-9ac3-4c9d-bb54-864846555ff8}"
+      },
+      "sync": 0,
+      "versioned_id": "wasapi_output_capture",
+      "volume": 1.0
+    },
+    {
+      "balance": 0.5,
+      "deinterlace_field_order": 0,
+      "deinterlace_mode": 0,
+      "enabled": true,
+      "flags": 0,
+      "hotkeys": {
+        "OBSBasic.SelectScene": [],
+        "libobs.hide_scene_item.Audio Input Capture": [],
+        "libobs.hide_scene_item.Display Capture": [],
+        "libobs.hide_scene_item.Headphone (Aux)": [],
+        "libobs.hide_scene_item.Headphone (BT)": [],
+        "libobs.show_scene_item.Audio Input Capture": [],
+        "libobs.show_scene_item.Display Capture": [],
+        "libobs.show_scene_item.Headphone (Aux)": [],
+        "libobs.show_scene_item.Headphone (BT)": []
+      },
+      "id": "scene",
+      "mixers": 0,
+      "monitoring_type": 0,
+      "muted": false,
+      "name": "Display + AI (LMic) + AO (Headphones (BT and Aux) (Rec)",
+      "prev_ver": 436207618,
+      "private_settings": {},
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "settings": {
+        "custom_size": false,
+        "id_counter": 8,
+        "items": [
+          {
+            "align": 5,
+            "bounds": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "bounds_align": 0,
+            "bounds_type": 0,
+            "crop_bottom": 0,
+            "crop_left": 0,
+            "crop_right": 0,
+            "crop_top": 0,
+            "group_item_backup": false,
+            "id": 6,
+            "locked": true,
+            "name": "Headphone (BT)",
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "private_settings": {},
+            "rot": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "scale_filter": "disable",
+            "visible": true
+          },
+          {
+            "align": 5,
+            "bounds": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "bounds_align": 0,
+            "bounds_type": 0,
+            "crop_bottom": 0,
+            "crop_left": 0,
+            "crop_right": 0,
+            "crop_top": 0,
+            "group_item_backup": false,
+            "id": 8,
+            "locked": true,
+            "name": "Headphone (Aux)",
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "private_settings": {},
+            "rot": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "scale_filter": "disable",
+            "visible": true
+          },
+          {
+            "align": 5,
+            "bounds": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "bounds_align": 0,
+            "bounds_type": 0,
+            "crop_bottom": 0,
+            "crop_left": 0,
+            "crop_right": 0,
+            "crop_top": 0,
+            "group_item_backup": false,
+            "id": 4,
+            "locked": true,
+            "name": "Audio Input Capture",
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "private_settings": {},
+            "rot": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "scale_filter": "disable",
+            "visible": true
+          },
+          {
+            "align": 5,
+            "bounds": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "bounds_align": 0,
+            "bounds_type": 0,
+            "crop_bottom": 0,
+            "crop_left": 0,
+            "crop_right": 0,
+            "crop_top": 0,
+            "group_item_backup": false,
+            "id": 1,
+            "locked": true,
+            "name": "Display Capture",
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "private_settings": {},
+            "rot": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "scale_filter": "disable",
+            "visible": true
+          }
+        ]
+      },
+      "sync": 0,
+      "versioned_id": "scene",
+      "volume": 1.0
+    },
+    {
+      "balance": 0.5,
+      "deinterlace_field_order": 0,
+      "deinterlace_mode": 0,
+      "enabled": true,
+      "flags": 0,
+      "hotkeys": {
+        "OBSBasic.SelectScene": [],
+        "libobs.hide_scene_item.Audio Input Capture": [],
+        "libobs.hide_scene_item.Audio Output Capture": [],
+        "libobs.hide_scene_item.Display Capture": [],
+        "libobs.show_scene_item.Audio Input Capture": [],
+        "libobs.show_scene_item.Audio Output Capture": [],
+        "libobs.show_scene_item.Display Capture": []
+      },
+      "id": "scene",
+      "mixers": 0,
+      "monitoring_type": 0,
+      "muted": false,
+      "name": "Display + AI (LMic) + AO (LSpeakers)",
+      "prev_ver": 436207618,
+      "private_settings": {},
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "settings": {
+        "custom_size": false,
+        "id_counter": 3,
+        "items": [
+          {
+            "align": 5,
+            "bounds": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "bounds_align": 0,
+            "bounds_type": 0,
+            "crop_bottom": 0,
+            "crop_left": 0,
+            "crop_right": 0,
+            "crop_top": 0,
+            "group_item_backup": false,
+            "id": 3,
+            "locked": false,
+            "name": "Audio Input Capture",
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "private_settings": {},
+            "rot": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "scale_filter": "disable",
+            "visible": true
+          },
+          {
+            "align": 5,
+            "bounds": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "bounds_align": 0,
+            "bounds_type": 0,
+            "crop_bottom": 0,
+            "crop_left": 0,
+            "crop_right": 0,
+            "crop_top": 0,
+            "group_item_backup": false,
+            "id": 2,
+            "locked": false,
+            "name": "Audio Output Capture",
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "private_settings": {},
+            "rot": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "scale_filter": "disable",
+            "visible": true
+          },
+          {
+            "align": 5,
+            "bounds": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "bounds_align": 0,
+            "bounds_type": 0,
+            "crop_bottom": 0,
+            "crop_left": 0,
+            "crop_right": 0,
+            "crop_top": 0,
+            "group_item_backup": false,
+            "id": 1,
+            "locked": false,
+            "name": "Display Capture",
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "private_settings": {},
+            "rot": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "scale_filter": "disable",
+            "visible": true
+          }
+        ]
+      },
+      "sync": 0,
+      "versioned_id": "scene",
+      "volume": 1.0
+    },
+    {
+      "balance": 0.5,
+      "deinterlace_field_order": 0,
+      "deinterlace_mode": 0,
+      "enabled": true,
+      "flags": 0,
+      "hotkeys": {},
+      "id": "monitor_capture",
+      "mixers": 0,
+      "monitoring_type": 0,
+      "muted": false,
+      "name": "Display Capture",
+      "prev_ver": 436207618,
+      "private_settings": {},
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "settings": {},
+      "sync": 0,
+      "versioned_id": "monitor_capture",
+      "volume": 1.0
+    },
+    {
+      "balance": 0.5,
+      "deinterlace_field_order": 0,
+      "deinterlace_mode": 0,
+      "enabled": true,
+      "flags": 0,
+      "hotkeys": {
+        "libobs.mute": [],
+        "libobs.push-to-mute": [],
+        "libobs.push-to-talk": [],
+        "libobs.unmute": []
+      },
+      "id": "wasapi_output_capture",
+      "mixers": 251,
+      "monitoring_type": 0,
+      "muted": false,
+      "name": "Audio Output Capture",
+      "prev_ver": 436207618,
+      "private_settings": {},
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "settings": {
+        "device_id": "{0.0.0.00000000}.{a612d1b2-89ff-44ef-9e78-e8fce53e4cff}",
+        "use_device_timing": true
+      },
+      "sync": 0,
+      "versioned_id": "wasapi_output_capture",
+      "volume": 1.0
+    },
+    {
+      "balance": 0.5,
+      "deinterlace_field_order": 0,
+      "deinterlace_mode": 0,
+      "enabled": true,
+      "flags": 0,
+      "hotkeys": {
+        "libobs.mute": [],
+        "libobs.push-to-mute": [],
+        "libobs.push-to-talk": [],
+        "libobs.unmute": []
+      },
+      "id": "wasapi_input_capture",
+      "mixers": 255,
+      "monitoring_type": 0,
+      "muted": false,
+      "name": "Audio Input Capture",
+      "prev_ver": 436207618,
+      "private_settings": {},
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "settings": {
+        "device_id": "{0.0.1.00000000}.{0e651c46-5571-4c4d-a932-b6ee5b898f14}",
+        "use_device_timing": true
+      },
+      "sync": 0,
+      "versioned_id": "wasapi_input_capture",
+      "volume": 1.0
+    },
+    {
+      "balance": 0.5,
+      "deinterlace_field_order": 0,
+      "deinterlace_mode": 0,
+      "enabled": true,
+      "flags": 0,
+      "hotkeys": {
+        "OBSBasic.SelectScene": [],
+        "libobs.hide_scene_item.Audio Output Capture": [],
+        "libobs.hide_scene_item.Display Capture": [],
+        "libobs.show_scene_item.Audio Output Capture": [],
+        "libobs.show_scene_item.Display Capture": []
+      },
+      "id": "scene",
+      "mixers": 0,
+      "monitoring_type": 0,
+      "muted": false,
+      "name": "Display + AO (LSpeakers)",
+      "prev_ver": 436207618,
+      "private_settings": {},
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "settings": {
+        "custom_size": false,
+        "id_counter": 3,
+        "items": [
+          {
+            "align": 5,
+            "bounds": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "bounds_align": 0,
+            "bounds_type": 0,
+            "crop_bottom": 0,
+            "crop_left": 0,
+            "crop_right": 0,
+            "crop_top": 0,
+            "group_item_backup": false,
+            "id": 2,
+            "locked": false,
+            "name": "Audio Output Capture",
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "private_settings": {},
+            "rot": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "scale_filter": "disable",
+            "visible": true
+          },
+          {
+            "align": 5,
+            "bounds": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "bounds_align": 0,
+            "bounds_type": 0,
+            "crop_bottom": 0,
+            "crop_left": 0,
+            "crop_right": 0,
+            "crop_top": 0,
+            "group_item_backup": false,
+            "id": 3,
+            "locked": false,
+            "name": "Display Capture",
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "private_settings": {},
+            "rot": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "scale_filter": "disable",
+            "visible": true
+          }
+        ]
+      },
+      "sync": 0,
+      "versioned_id": "scene",
+      "volume": 1.0
+    },
+    {
+      "balance": 0.5,
+      "deinterlace_field_order": 0,
+      "deinterlace_mode": 0,
+      "enabled": true,
+      "flags": 0,
+      "hotkeys": {
+        "OBSBasic.SelectScene": [],
+        "libobs.hide_scene_item.Display Capture": [],
+        "libobs.show_scene_item.Display Capture": []
+      },
+      "id": "scene",
+      "mixers": 0,
+      "monitoring_type": 0,
+      "muted": false,
+      "name": "Display Only",
+      "prev_ver": 436207618,
+      "private_settings": {},
+      "push-to-mute": false,
+      "push-to-mute-delay": 0,
+      "push-to-talk": false,
+      "push-to-talk-delay": 0,
+      "settings": {
+        "custom_size": false,
+        "id_counter": 3,
+        "items": [
+          {
+            "align": 5,
+            "bounds": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "bounds_align": 0,
+            "bounds_type": 0,
+            "crop_bottom": 0,
+            "crop_left": 0,
+            "crop_right": 0,
+            "crop_top": 0,
+            "group_item_backup": false,
+            "id": 3,
+            "locked": false,
+            "name": "Display Capture",
+            "pos": {
+              "x": 0.0,
+              "y": 0.0
+            },
+            "private_settings": {},
+            "rot": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "scale_filter": "disable",
+            "visible": true
+          }
+        ]
+      },
+      "sync": 0,
+      "versioned_id": "scene",
+      "volume": 1.0
+    }
+  ],
+  "transition_duration": 300,
+  "transitions": []
+}
