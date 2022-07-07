@@ -4,7 +4,7 @@
 
 ## Desktop (Window10)
 
-> By Order of the ~~Peaky Blinders~~ importance/usage.
+> _By the order of the ~~Peaky Blinders~~ importance/usage._
 
 ### Firefox
 
@@ -22,6 +22,8 @@ A free and open-source browser.
   - [Facebook Container](https://www.mozilla.org/en-US/firefox/facebookcontainer/) - isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
   - [ClearURLs](https://github.com/ClearURLs/Homepage) - Remove tracking elements from URLs.
   - [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) - Take control of YouTube and boost your user experience!
+    ⚙️ _See configurations [here](https://github.com/arlbibek/arl-preferences/blob/master/EnhancerforYouTube.json)._
+
   - [Wikiwand: Wikipedia Modernized](https://origin-production.wikiwand.com/) - Good old Wikipedia gets a great new look.
   - [SingleFile](https://github.com/gildas-lormeau/SingleFile#install) - Save a complete page into a single HTML file.
   - [Grammarly](https://www.grammarly.com/) - Enhance your written communication everywhere you type!
@@ -32,13 +34,6 @@ A free and open-source file archiver, a utility used to place groups of files wi
 
 - Go to [official download page](https://www.7-zip.org/download.html).
 
-### ShareX
-
-A free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
-
-- Go to [official download page](https://getsharex.com/).
-- Install Microsoft store version from [here](https://www.microsoft.com/store/productId/9NBLGGH4Z1SP).
-
 ### Visual Studio Code
 
 A code editor redefined and optimized for building and debugging modern web and cloud applications. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
@@ -47,18 +42,44 @@ A code editor redefined and optimized for building and debugging modern web and 
 
 Alternative(s): [Atom](https://atom.io/); [Notepad++](https://notepad-plus-plus.org/); [Sublime Text](https://www.sublimetext.com/);
 
-### Windows Terminal
+### Python3
 
-A modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL.
+An interpreted, high-level, general-purpose programming language..
 
-- Directly download Windows Terminal for windows from [here](https://www.microsoft.com/store/productId/9N0DX20HK701).
-- Go to [official download page](https://github.com/microsoft/terminal/releases).
+- Go to [official download page](https://www.python.org/downloads/).
+
+### Git
+
+A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+- Go to [official download page](https://git-scm.com/downloads).
+
+### AutoHotkey
+
+A free, open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks such as: form fillers, auto-clicking, macros, etc.
+
+- Go to [official download page](https://www.autohotkey.com/download/).
+
+  _Check out [arlbibek/windows-ahk](https://github.com/arlbibek/windows-ahk "⌨ A simple and intuitive AutoHotKey script for Windows.") for enhancing windows shortcuts and more, dedicated to improving users workflow._
+
+### ShareX
+
+A free and open source program that lets you capture or record any area of your screen and share it with a single press of a key.
+
+- Go to [official download page](https://getsharex.com/).
+- Install Microsoft store version from [here](https://www.microsoft.com/store/productId/9NBLGGH4Z1SP).
 
 ### SumatraPDF
 
 A free and open-source document viewer that supports viewing many document formats as quick and light as possible.
 
 - Go to [official download page](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html).
+
+### syncthing (SyncTrayzor)
+
+A free, open-source peer-to-peer file synchronization application. SyncTrayzor is a little tray utility for Syncthing on Windows.
+
+- Go to [official download page](https://syncthing.net/downloads/).
 
 ### Spotify
 
@@ -78,35 +99,17 @@ A free and open source cross-platform multimedia player and framework.
 
 Alternative(s): [MPC-HC](https://mpc-hc.org/)
 
-### Debian - WSL
+### Calibre
 
-Compile and run Unix programs directly in the Windows Environment.
+The one stop solution for all your e-book needs. Comprehensive e-book software.
 
-- Directly download Debian - WSL for windows from [here](https://www.microsoft.com/store/apps/9MSVKQC78PK6).
+- Go to [official download page](https://calibre-ebook.com/download).
 
-### OBS Studio
+### Joplin
 
-A free and open-source cross-platform streaming and recording program built with Qt.
+An open source note-taking app.
 
-- Go to [official download page](https://obsproject.com/).
-
-### syncthing
-
-A free, open-source peer-to-peer file synchronization application.
-
-- Go to [official download page](https://syncthing.net/downloads/).
-
-### Python3
-
-An interpreted, high-level, general-purpose programming language..
-
-- Go to [official download page](https://www.python.org/downloads/).
-
-### Git
-
-A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-
-- Go to [official download page](https://git-scm.com/downloads).
+- Go to [official download page](https://joplinapp.org/download/).
 
 ### Node.js
 
@@ -114,29 +117,39 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 - Go to [official download page](https://nodejs.org/en/download/).
 
+### Windows Terminal
+
+A modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL.
+
+- Directly download Windows Terminal for windows from [here](https://www.microsoft.com/store/productId/9N0DX20HK701).
+- Go to [official download page](https://github.com/microsoft/terminal/releases).
+
+### Debian - WSL
+
+Compile and run Unix programs directly in the Windows Environment.
+
+- Directly download Debian - WSL for windows from [here](https://www.microsoft.com/store/apps/9MSVKQC78PK6).
+
+  ⚙️ _Check out [Linux Terminal Config.md](https://github.com/arlbibek/arl-preferences/blob/master/Linux%20Terminal%20Config.md) for console configuration._
+
 ### yt-dlp
 
 A [youtube-dl](https://ytdl-org.github.io/youtube-dl/ "A small command-line program to download videos from youtube.com and a few more sites.") fork with additional features and fixes.
 
 - Go to [official github page](https://github.com/yt-dlp/yt-dlp).
 
-### FFmpeg
+  Install via Python Package Manager (pip)
 
-A complete, cross-platform solution to record, convert and stream audio and video.
+  ```terminal
+  pip install yt-dlp
+  ```
 
-- Go to [official download page](https://ffmpeg.org/download.html).
+  Install on Linux system
 
-### AutoHotkey
-
-A free, open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks such as: form fillers, auto-clicking, macros, etc.
-
-- Go to [official download page](https://www.autohotkey.com/download/).
-
-### GIMP
-
-A free and open-source raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks.
-
-- Go to [official download page](https://www.gimp.org/downloads/).
+  ```terminal
+  sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+  sudo chmod a+rx /usr/local/bin/yt-dlp
+  ```
 
 ### PyDebloatX
 
@@ -151,12 +164,19 @@ A Free antispy tool for Windows 10.
 
 - Go to [official download page](https://www.oo-software.com/en/shutup10).
 
-### deemix
+### OBS Studio
 
-A deezer downloader built from the ashes of Deezloader Remix.
+A free and open-source cross-platform streaming and recording program built with Qt.
 
-- Go to [official download page](https://download.deemix.app).
-- Check out the [reddit page](https://www.reddit.com/r/deemix/).
+- Go to [official download page](https://obsproject.com/).
+
+  ⚙️ _For scenes configuration see [here](https://github.com/arlbibek/arl-preferences/blob/master/OBS%20-%20scenes.json)._
+
+### GIMP
+
+A free and open-source raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks.
+
+- Go to [official download page](https://www.gimp.org/downloads/).
 
 ### Avdimux
 
@@ -179,21 +199,11 @@ Display and control your Android device.
 
 #### Meh
 
+- VMware Workstation
+- Microsoft 365 Apps
+- Google Drive
 - Google Chrome
-- Slack
 - Discord
-- OneNote
-- Microsoft Office 365
-- ~~Windows Package Manager CLI (winget)~~
-- ~~Calibre~~
-- ~~Back Up and Sync from Google~~
-- ~~Signal~~
-- ~~Standard Notes~~
-- ~~MicrosoftEdge~~
-- ~~VMware Workstation~~
-- ~~Gramarly for Microsoft~~
-- ~~Internet Download Manger~~
-- ~~IDM trial reset~~
 
 ---
 
@@ -208,16 +218,16 @@ Display and control your Android device.
 - ~~eReader Prestigio: Book Reader~~ Moon Reader
 - Xodo PDF Reader & Editor
 - Dictionary - Merriam-Webster
-- ~~Google Keep~~ ~~Joplin~~ ~~Simple Notes~~ ~~Standard Notes~~ ~~Google Keep~~ Joplin
+- ~~Google Keep~~ ~~Joplin~~ ~~Simple Notes~~ ~~Standard Notes~~ ~~Google Keep~~ Joplin & Google Keep
 - ~~Automatic Tag Editor~~
-- ~~Mi Music~~ ~~Shuttle Music Player~~ ~~S2 Music Player~~ Retro Music
+- ~~Mi Music~~ ~~Shuttle Music Player~~ ~~S2 Music Player~~ ~~Retro Music~~
 - XE Currency Converter & Money Transfers
 - ~~Free Scientific calculator~~
-- ~~GBoard - the Google Keyboard~~ Simple Keyboard
+- ~~GBoard - the Google Keyboard~~ ~~Simple Keyboard~~ OpenBoard
 - Google (Drive; Photos; ~~Classroom~~)
 - Maps - Navigation & Explore
-- MAPS.ME
-- GMail
+- ~~MAPS.ME~~
+- Gmail
 - ~~Relay for Reddit~~ ~~Infinity~~
 - ~~LinkedIn~~
 - ~~YouTube~~ ~~YouTube Vanced~~ ~~m.youtube.com~~ NewPipe
@@ -235,6 +245,8 @@ Display and control your Android device.
 - Spotify
 - ~~Recorder - Google~~
 - Minesweeper - The Clean One
+- Coffee
+- Feeel
 
 ---
 
