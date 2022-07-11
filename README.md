@@ -251,6 +251,4 @@ Display and control your Android device.
 
 ---
 
-That is all.
-
 Made with ❤️ by [Bibek Aryal](https://bibeka.com.np/).
