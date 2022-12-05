@@ -3,19 +3,19 @@
   "$schema": "https://aka.ms/terminal-profiles-schema",
   "actions": [
     {
+      "command": "find",
+      "keys": "ctrl+shift+f"
+    },
+    {
+      "command": "paste",
+      "keys": "ctrl+v"
+    },
+    {
       "command": {
         "action": "copy",
         "singleLine": false
       },
-      "keys": "ctrl+shift+c"
-    },
-    {
-      "command": "paste",
-      "keys": "ctrl+shift+v"
-    },
-    {
-      "command": "find",
-      "keys": "ctrl+shift+f"
+      "keys": "ctrl+c"
     },
     {
       "command": {
@@ -26,62 +26,60 @@
       "keys": "alt+shift+d"
     }
   ],
-  "alwaysShowTabs": true,
+  "alwaysShowNotificationIcon": true,
   "copyFormatting": "none",
   "copyOnSelect": false,
   "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
-  "launchMode": "default",
+  "focusFollowMouse": false,
+  "minimizeToNotificationArea": false,
   "profiles": {
     "defaults": {
-      "backgroundImage": "C:\\master\\wt\\wt.gif",
-      "backgroundImageOpacity": 0.47000000000000003,
-      "bellStyle": ["window", "taskbar"],
-      "colorScheme": "Campbell",
+      "backgroundImage": "%userprofile%\\Pictures\\wt\\wt.gif",
+      "backgroundImageOpacity": 0.14000000000000001,
       "cursorShape": "filledBox",
-      "experimental.retroTerminalEffect": false,
       "font": {
-        "face": "Consolas",
-        "size": 14,
-        "weight": "normal"
+        "size": 14
       },
-      "icon": "C:\\master\\343021.jpg",
-      "opacity": 11,
-      "padding": "7",
+      "scrollbarState": "hidden",
       "startingDirectory": ".",
-      "useAcrylic": true
+      "useAcrylic": false
     },
     "list": [
       {
+        "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
         "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
         "hidden": false,
         "name": "Windows PowerShell"
       },
       {
+        "commandline": "%SystemRoot%\\System32\\cmd.exe",
         "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
         "hidden": false,
         "name": "Command Prompt"
       },
       {
-        "backgroundImage": "C:\\master\\wt\\debian.png",
-        "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
-        "hidden": false,
-        "icon": "C:\\master\\wt\\debian.png",
-        "name": "Debian",
-        "source": "Windows.Terminal.Wsl"
-      },
-      {
-        "backgroundImage": "C:\\master\\wt\\git.png",
+        "backgroundImage": "%userprofile%\\Pictures\\wt\\git.png",
         "guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
         "hidden": false,
-        "icon": "C:\\master\\wt\\git.png",
+        "icon": "C:/Program Files/Git/mingw64/share/git/git-for-windows.ico",
         "name": "Git Bash",
         "source": "Git"
       },
       {
-        "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
-        "hidden": true,
-        "name": "Azure Cloud Shell",
-        "source": "Windows.Terminal.Azure"
+        "backgroundImage": "%userprofile%\\Pictures\\wt\\debian.png",
+        "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
+        "hidden": false,
+        "icon": "%userprofile%\\Pictures\\wt\\debian_icon.png",
+        "name": "Debian",
+        "source": "Windows.Terminal.Wsl"
+      },
+      {
+        "backgroundImage": "%userprofile%\\Pictures\\wt\\kali.jpg",
+        "guid": "{46ca431a-3a87-5fb3-83cd-11ececc031d2}",
+        "hidden": false,
+        "icon": "%userprofile%\\Pictures\\wt\\kali_icon.png",
+        "name": "Kali",
+        "source": "Windows.Terminal.Wsl"
       }
     ]
   },
@@ -271,52 +269,6 @@
       "yellow": "#C4A000"
     },
     {
-      "background": "#300A24",
-      "black": "#171421",
-      "blue": "#0037DA",
-      "brightBlack": "#767676",
-      "brightBlue": "#08458F",
-      "brightCyan": "#2C9FB3",
-      "brightGreen": "#26A269",
-      "brightPurple": "#A347BA",
-      "brightRed": "#C01C28",
-      "brightWhite": "#F2F2F2",
-      "brightYellow": "#A2734C",
-      "cursorColor": "#FFFFFF",
-      "cyan": "#3A96DD",
-      "foreground": "#FFFFFF",
-      "green": "#26A269",
-      "name": "Ubuntu20.04LTSColorScheme",
-      "purple": "#881798",
-      "red": "#C21A23",
-      "selectionBackground": "#FFFFFF",
-      "white": "#CCCCCC",
-      "yellow": "#A2734C"
-    },
-    {
-      "background": "#300A24",
-      "black": "#171421",
-      "blue": "#0037DA",
-      "brightBlack": "#767676",
-      "brightBlue": "#08458F",
-      "brightCyan": "#2C9FB3",
-      "brightGreen": "#26A269",
-      "brightPurple": "#A347BA",
-      "brightRed": "#C01C28",
-      "brightWhite": "#F2F2F2",
-      "brightYellow": "#A2734C",
-      "cursorColor": "#FFFFFF",
-      "cyan": "#3A96DD",
-      "foreground": "#FFFFFF",
-      "green": "#26A269",
-      "name": "UbuntuColorScheme",
-      "purple": "#881798",
-      "red": "#C21A23",
-      "selectionBackground": "#FFFFFF",
-      "white": "#CCCCCC",
-      "yellow": "#A2734C"
-    },
-    {
       "background": "#000000",
       "black": "#000000",
       "blue": "#000080",
@@ -340,7 +292,5 @@
       "yellow": "#808000"
     }
   ],
-  "snapToGridOnResize": true,
-  "tabWidthMode": "equal",
   "useAcrylicInTabRow": false
 }
