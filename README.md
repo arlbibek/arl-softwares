@@ -1,8 +1,6 @@
 # Softwares and Tools that I use on a daily basis
 
-![Softwares Icons Montage](images/desktop.png "Softwares Icons Montage")
-
-## Desktop (Windows)
+## Windows
 
 > _By the order of the ~~Peaky Blinders~~ importance/usage._
 
@@ -12,25 +10,25 @@ A free and open-source browser.
 
 - Go to official download page: [mozilla.org/en-US/firefox/new](https://www.mozilla.org/en-US/firefox/new/)
 
-  - Browser extensions
+#### Browser extensions
 
-    - [uBlock Origin](https://ublockorigin.com/) - an efficient blocker. Easy on CPU and memory.
-    - [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Encrypt the Web! Automatically use HTTPS security on many sites.
-    - [DuckDuckGo Privacy Essentials](https://duckduckgo.com/) - Privacy, simplified. Protect your data as you search and browse: tracker blocking, smarter encryption, private search, and more.
-    - [Privacy Badger](https://privacybadger.org/) - automatically learns to block invisible trackers.
-    - [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery.
-    - [Facebook Container](https://www.mozilla.org/en-US/firefox/facebookcontainer/) - isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
-    - [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) - Take control of YouTube and boost your user experience!
-      ⚙️/[EnhancerforYouTube.json](https://github.com/arlbibek/arl-softwares/blob/master/preferences/EnhancerforYouTube.json)
-    - [SponsorBlock](https://sponsor.ajay.app/) - an open-source crowdsourced browser extension and open API for skipping sponsor segments in YouTube videos.
-      ⚙️/[SponsorBlockConfig.json](https://github.com/arlbibek/arl-softwares/blob/master/preferences/SponsorBlockConfig.json)
+- [uBlock Origin](https://ublockorigin.com/) - an efficient blocker. Easy on CPU and memory.
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Encrypt the Web! Automatically use HTTPS security on many sites.
+- [DuckDuckGo Privacy Essentials](https://duckduckgo.com/) - Privacy, simplified. Protect your data as you search and browse: tracker blocking, smarter encryption, private search, and more.
+- [Privacy Badger](https://privacybadger.org/) - automatically learns to block invisible trackers.
+- [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery.
+- [Facebook Container](https://www.mozilla.org/en-US/firefox/facebookcontainer/) - isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
+- [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) - Take control of YouTube and boost your user experience!
+  ⚙️/[EnhancerforYouTube.json](https://github.com/arlbibek/arl-softwares/blob/master/preferences/EnhancerforYouTube.json)
+- [SponsorBlock](https://sponsor.ajay.app/) - an open-source crowdsourced browser extension and open API for skipping sponsor segments in YouTube videos.
+  ⚙️/[SponsorBlockConfig.json](https://github.com/arlbibek/arl-softwares/blob/master/preferences/SponsorBlockConfig.json)
 
-      <br />
+  <br />
 
-    - [Wikiwand: Wikipedia Modernized](https://origin-production.wikiwand.com/) - Good old Wikipedia gets a great new look.
-    - [ClearURLs](https://github.com/ClearURLs/Homepage) - Remove tracking elements from URLs.
-    - [Grammarly](https://www.grammarly.com/) - Enhance your written communication everywhere you type!
-    - [SingleFile](https://github.com/gildas-lormeau/SingleFile#install) - Save a complete page into a single HTML file.
+- [Wikiwand: Wikipedia Modernized](https://origin-production.wikiwand.com/) - Good old Wikipedia gets a great new look.
+- [ClearURLs](https://github.com/ClearURLs/Homepage) - Remove tracking elements from URLs.
+- [Grammarly](https://www.grammarly.com/) - Enhance your written communication everywhere you type!
+- [SingleFile](https://github.com/gildas-lormeau/SingleFile#install) - Save a complete page into a single HTML file.
 
 ### [7-Zip](https://www.7-zip.org/)
 
