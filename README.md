@@ -198,6 +198,35 @@ A simple and intuitive AutoHotKey script for Windows.
 - [Avdimux](http://www.avidemux.org/) - A free video editor designed for simple cutting, filtering an encoding tasks.
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device.
 
+## 🌐 Some useful websites
+
+- Convertio — File Converter - [convertio.co](https://convertio.co/)
+- Smallpdf.com - A Free Solution to all your PDF Problems - [smallpdf.com](https://smallpdf.com/)
+- Remove Background from Image - [remove.bg](https://www.remove.bg/)
+- mp3Clan - Free Music Download - [mp3clan.com](https://mp3clan.com/)
+- Audio Library · No Copyright Music - [audioLibrary.com.co](https://www.audioLibrary.com.co/)
+- Mixkit - Awesome free assets for your next video project - [mixkit.co](https://mixkit.co/)
+- 10 Minute Mail - [10minutemail.net](https://10minutemail.net/)
+- Guerrilla Mail - Disposable Temporary E-Mail Address - [guerrillamail.com](https://www.guerrillamail.com/)
+- FutureMe: Write a Letter to your Future Self - [futureme.org](https://www.futureme.org/)
+- Emkei’s Fake Mailer - [emkei.cz](https://emkei.cz/)
+- Skillshare-DL - [colab.research.google.com/github/K-E-N-W-A-Y/Skillshare-DL/blob/master/Skillshare*DL*%5BKENWAY%5D.ipynb](https://colab.research.google.com/github/K-E-N-W-A-Y/Skillshare-DL/blob/master/Skillshare*DL*%5BKENWAY%5D.ipynb)
+- Sci-Hub - [sci-hub.hkvisa.net](https://sci-hub.hkvisa.net/)
+- AlternativeTo - Crowdsourced software recommendations - [alternativeto.net](https://alternativeto.net/)
+- Emojipedia — Home of Emoji Meanings 💁👌🎍😍 - [emojipedia.org](https://emojipedia.org/)
+- is.gd - a URL shortener. Mmmm, tasty URLs! - [is.gd](https://is.gd/)
+- Devanagari Keyboard OnLine • Hindi Alphabet • LEXILOGOS - [lexilogos.com/keyboard/devanagari.htm](https://www.lexilogos.com/keyboard/devanagari.htm)
+- Free Online Image Editor | ResizePixel - [resizepixel.com](https://www.resizepixel.com/)
+- Bootstrap Icons · Official open source SVG icon library for Bootstrap - [icons.getbootstrap.com](https://icons.getbootstrap.com/)
+- The secret manager that developers love | Sniptt - [sniptt.com](https://www.sniptt.com/)
+- PrivacyTools - Encryption Against Mass Surveillance - [privacytools.io](https://www.privacytools.io)
+- Flightradar24: Live Flight Tracker - [flightradar24.com](https://www.flightradar24.com/)
+- The swiss army knife of Generators - [outputter.io](https://outputter.io/)
+- Earth 2050: A glimpse into the future - [2050.earth](https://2050.earth/)
+- Bouncing DVD logo - [bouncingdvdlogo.com](https://www.bouncingdvdlogo.com/)
+- Neave Interactive - [neave.com](https://neave.com/)
+- Neal.fun - [neal.fun](https://neal.fun/)
+
 ## 📱 Android Apps
 
 - Bose Connect
