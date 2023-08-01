@@ -1,8 +1,8 @@
+![Softwares and Tools that I use on a daily basis](desktop.png)
+
 # Softwares and Tools that I use on a daily basis
 
-## Windows
-
-> _By the order of the ~~Peaky Blinders~~ importance/usage._
+## 💻 Windows
 
 ### [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
@@ -10,25 +10,19 @@ A free and open-source browser.
 
 - Go to official download page: [mozilla.org/en-US/firefox/new](https://www.mozilla.org/en-US/firefox/new/)
 
-#### Browser extensions
+  **Browser extensions**
 
-- [uBlock Origin](https://ublockorigin.com/) - an efficient blocker. Easy on CPU and memory.
-- [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Encrypt the Web! Automatically use HTTPS security on many sites.
-- [DuckDuckGo Privacy Essentials](https://duckduckgo.com/) - Privacy, simplified. Protect your data as you search and browse: tracker blocking, smarter encryption, private search, and more.
-- [Privacy Badger](https://privacybadger.org/) - automatically learns to block invisible trackers.
-- [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery.
-- [Facebook Container](https://www.mozilla.org/en-US/firefox/facebookcontainer/) - isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
-- [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) - Take control of YouTube and boost your user experience!
-  ⚙️/[EnhancerforYouTube.json](https://github.com/arlbibek/arl-softwares/blob/master/preferences/EnhancerforYouTube.json)
-- [SponsorBlock](https://sponsor.ajay.app/) - an open-source crowdsourced browser extension and open API for skipping sponsor segments in YouTube videos.
-  ⚙️/[SponsorBlockConfig.json](https://github.com/arlbibek/arl-softwares/blob/master/preferences/SponsorBlockConfig.json)
-
-  <br />
-
-- [Wikiwand: Wikipedia Modernized](https://origin-production.wikiwand.com/) - Good old Wikipedia gets a great new look.
-- [ClearURLs](https://github.com/ClearURLs/Homepage) - Remove tracking elements from URLs.
-- [Grammarly](https://www.grammarly.com/) - Enhance your written communication everywhere you type!
-- [SingleFile](https://github.com/gildas-lormeau/SingleFile#install) - Save a complete page into a single HTML file.
+  - [uBlock Origin](https://ublockorigin.com/) - an efficient blocker. Easy on CPU and memory.
+  - [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Encrypt the Web! Automatically use HTTPS security on many sites.
+  - [DuckDuckGo Privacy Essentials](https://duckduckgo.com/) - Privacy, simplified. Protect your data as you search and browse: tracker blocking, smarter encryption, private search, and more.
+  - [Privacy Badger](https://privacybadger.org/) - automatically learns to block invisible trackers.
+  - [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery.
+  - [Facebook Container](https://www.mozilla.org/en-US/firefox/facebookcontainer/) - isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
+  - [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube) - Take control of YouTube and boost your user experience!
+    ⚙️/[EnhancerforYouTube.json](https://github.com/arlbibek/arl-softwares/blob/master/preferences/EnhancerforYouTube.json)
+  - [SponsorBlock](https://sponsor.ajay.app/) - an open-source crowdsourced browser extension and open API for skipping sponsor segments in YouTube videos.
+    ⚙️/[SponsorBlockConfig.json](https://github.com/arlbibek/arl-softwares/blob/master/preferences/SponsorBlockConfig.json)
+  - [Wikiwand: Wikipedia Modernized](https://origin-production.wikiwand.com/) - Good old Wikipedia gets a great new look.
 
 ### [7-Zip](https://www.7-zip.org/)
 
@@ -42,7 +36,11 @@ A code editor redefined and optimized for building and debugging modern web and 
 
 - Go to official download page: [code.visualstudio.com](https://code.visualstudio.com/)
 
-Alternative(s): [Notepad++](https://notepad-plus-plus.org/)
+### [Obsidian](https://obsidian.md/)
+
+A personal knowledge base and note-taking software application that operates on Markdown files.
+
+- Go to official download page: [obsidian.md/download](https://obsidian.md/download)
 
 ### [Python](https://www.python.org/)
 
@@ -88,15 +86,11 @@ Music streaming and media services provider.
 - Go to official download page: [spotify.com/download](https://www.spotify.com/download/)
 - Install Microsoft store version from: [microsoft.com/store/productId/9NCBCSZSJRSB](https://www.microsoft.com/store/productId/9NCBCSZSJRSB)
 
-Alternative(s): [Deezer](https://www.deezer.com/)
-
 ### [VLC](https://www.videolan.org/vlc/)
 
 A free and open source cross-platform multimedia player and framework.
 
 - Go to official download page: [videolan.org/vlc](https://www.videolan.org/vlc/)
-
-Alternative(s): [MPC-HC](https://mpc-hc.org/)
 
 ### [Calibre](https://calibre-ebook.com/)
 
@@ -111,7 +105,7 @@ A modern, fast, efficient, powerful, and productive terminal application for use
 - Download Windows Terminal from one of the releases: [github.com/microsoft/terminal/releases](https://github.com/microsoft/terminal/releases)
 - Directly download Windows Terminal for windows from: [microsoft.com/store/productId/9N0DX20HK701](https://www.microsoft.com/store/productId/9N0DX20HK701)
 
-⚙️/[WindowsTerminal_settings.json](https://github.com/arlbibek/arl-softwares/blob/master/preferences/WindowsTerminal_settings.json)
+  ⚙️/[WindowsTerminal_settings.json](https://github.com/arlbibek/arl-softwares/blob/master/preferences/WindowsTerminal_settings.json)
 
 ### [Debian](https://www.microsoft.com/store/apps/9MSVKQC78PK6) (WSL)
 
@@ -119,26 +113,7 @@ Compile and run Unix programs directly in the Windows Environment.
 
 - Directly download Debian (WSL) for windows from: [microsoft.com/store/apps/9MSVKQC78PK6](https://www.microsoft.com/store/apps/9MSVKQC78PK6)
 
-⚙️/[LinuxTerminalConfig.md](https://github.com/arlbibek/arl-softwares/blob/master/preferences/LinuxTerminalConfig.md)
-
-### [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-
-A [youtube-dl](https://ytdl-org.github.io/youtube-dl/ "A small command-line program to download videos from youtube.com and a few more sites.") fork with additional features and fixes.
-
-- Go to official github page: [github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-
-- Install via Python Package Manager (pip)
-
-  ```terminal
-  pip install yt-dlp
-  ```
-
-- Install on Linux system
-
-  ```terminal
-  sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
-  sudo chmod a+rx /usr/local/bin/yt-dlp
-  ```
+  ⚙️/[LinuxTerminalConfig.md](https://github.com/arlbibek/arl-softwares/blob/master/preferences/LinuxTerminalConfig.md)
 
 ### [Node.js](https://nodejs.org/)
 
@@ -146,12 +121,38 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 - Go to official download page: [nodejs.org/en/download](https://nodejs.org/en/download/)
 
+### [OBS Studio](https://obsproject.com/)
+
+A free and open-source cross-platform streaming and recording program built with Qt.
+
+- Go to official download page: [obsproject.com/download](https://obsproject.com/download)
+
+  ⚙️/[OBS_scenes.json](https://github.com/arlbibek/arl-softwares/blob/master/preferences/OBS_scenes.json)
+
+### [GIMP](https://www.gimp.org/)
+
+A free and open-source raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks.
+
+- Go to official download page: [gimp.org/downloads](https://www.gimp.org/downloads/)
+
+### [Rufus](https://rufus.ie/)
+
+A small application that creates bootable USB drives, which can then be used to install or run Microsoft Windows, Linux or DOS.
+
+- Go to official download page: [rufus.ie](https://rufus.ie/)
+
+<br />
+
 ### [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
 
 Windows system utilities to maximize productivity.
 
 - Go to official GitHub page: [github.com/microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 - Download from one of the releases: [github.com/microsoft/PowerToys/releases](https://github.com/microsoft/PowerToys/releases)
+
+### [StartAllBack](https://www.startallback.com/)
+
+- Go to official download page: [startallback.com](https://www.startallback.com/)
 
 ### [PyDebloatX](https://pydebloatx.com/)
 
@@ -164,7 +165,7 @@ A free and open source program that lets you capture or record any area of your 
 
 A Free antispy tool for Windows 10.
 
-- Go to [official download page: [oo-software.com/shutup10](https://www.oo-software.com/shutup10)
+- Go to official download page: [oo-software.com/shutup10](https://www.oo-software.com/shutup10)
 
 ### [windows-ahk](https://arlbibek.github.io/windows-ahk/)
 
@@ -173,69 +174,51 @@ A simple and intuitive AutoHotKey script for Windows.
 - Go to official GitHub page: [github.com/arlbibek/windows-ahk](https://github.com/arlbibek/windows-ahk)
 - Download from one of the releases: [github.com/arlbibek/windows-ahk/releases](https://github.com/arlbibek/windows-ahk/releases)
 
-### [OBS Studio](https://obsproject.com/)
+### Misc
 
-A free and open-source cross-platform streaming and recording program built with Qt.
+- [Microsoft_Activation_Scripts (MAS)](https://massgrave.dev/)
 
-- Go to official download page: [obsproject.com/download](https://obsproject.com/download)
+  ```powershell
+  irm https://massgrave.dev/get | iex
+  ```
 
-⚙️/[OBS_scenes.json](https://github.com/arlbibek/arl-softwares/blob/master/preferences/OBS_scenes.json)
+- [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil)
 
-### [GIMP](https://www.gimp.org/)
+  ```powershell
+  irm https://christitus.com/win | iex
+  ```
 
-A free and open-source raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp): A [youtube-dl](https://ytdl-org.github.io/youtube-dl/ "A small command-line program to download videos from youtube.com and a few more sites.") fork with additional features and fixes.
 
-- Go to official download page: [gimp.org/downloads](https://www.gimp.org/downloads/)
+  ```shell
+  # install via Python Package Manager (pip)
+  pip install yt-dlp
+  ```
 
-### [Avdimux](http://www.avidemux.org/)
+- [Avdimux](http://www.avidemux.org/) - A free video editor designed for simple cutting, filtering an encoding tasks.
+- [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device.
 
-A free video editor designed for simple cutting, filtering an encoding tasks.
-
-- Go to official download page: [fosshub.com/Avidemux.html](https://www.fosshub.com/Avidemux.html)
-
-### [Rufus](https://rufus.ie/)
-
-A small application that creates bootable USB drives, which can then be used to install or run Microsoft Windows, Linux or DOS.
-
-- Go to official download page: [rufus.ie](https://rufus.ie/)
-
-### [scrcpy](https://github.com/Genymobile/scrcpy)
-
-Display and control your Android device.
-
-- Go to official GitHub page: [github.com/Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
-- Download from one of the releases: [github.com/Genymobile/scrcpy/releases](https://github.com/Genymobile/scrcpy/releases)
-
-#### Meh
-
-- Microsoft 365: [office.com](https://www.office.com)
-- Google Chrome: [google.com/chrome](https://www.google.com/chrome/)
-- Google Drive: [google.com/drive/download](https://www.google.com/drive/download/)
-
----
-
-## Android Apps
+## 📱 Android Apps
 
 - Bose Connect
 - ~~Hamro Patro~~ Ramro Patro
 - ~~1.1.1.1 Faster & Safer Internet~~
 - Fing - Network Tools
-- ~~Firefox Browser~~ ~~Brave Browser~~ DuckDuckGo + Firefox Focus
+- ~~Firefox Browser~~ ~~Brave Browser~~ DuckDuckGo ~~+ Firefox Focus~~
 - ~~Flud - Torrent Downloader~~
 - ~~eReader Prestigio: Book Reader~~ Moon Reader
 - Xodo PDF Reader & Editor
 - Dictionary - Merriam-Webster
-- ~~Google Keep~~ ~~Joplin~~ ~~Simple Notes~~ Standard Notes
+- ~~Google Keep~~ ~~Joplin~~ ~~Simple Notes~~ ~~Standard Notes~~ Obsidian
 - ~~Automatic Tag Editor~~
 - ~~Mi Music~~ ~~Shuttle Music Player~~ ~~S2 Music Player~~ ~~Retro Music~~ Spotify
-- ~~XE Currency Converter & Money Transfers~~
+- ~~XE Currency Converter & Money Transfers~~ xCurrency
 - ~~Free Scientific calculator~~
-- ~~GBoard - the Google Keyboard~~ ~~Simple Keyboard~~ OpenBoard
-- Google (Maps; Drive; Photos; Classroom)
-- Gmail + Spike
+- ~~GBoard - the Google Keyboard~~ ~~Simple Keyboard~~ ~~OpenBoard~~ GBoard - the Google Keyboard
+- Gmail ~~+ Spike~~
 - Proton Mail
 - ~~LinkedIn~~
-- ~~YouTube~~ ~~YouTube Vanced~~ ~~m.youtube.com~~ NewPipe
+- ~~YouTube~~ ~~YouTube Vanced~~ ~~m.youtube.com~~ NewPipe + YouTube ReVanced
 - GitHub
 - Termux
 - Syncthing
