@@ -3,19 +3,19 @@
   "$schema": "https://aka.ms/terminal-profiles-schema",
   "actions": [
     {
-      "command": "find",
-      "keys": "ctrl+shift+f"
+      "command": {
+        "action": "copy",
+        "singleLine": false
+      },
+      "keys": "ctrl+c"
     },
     {
       "command": "paste",
       "keys": "ctrl+v"
     },
     {
-      "command": {
-        "action": "copy",
-        "singleLine": false
-      },
-      "keys": "ctrl+c"
+      "command": "find",
+      "keys": "ctrl+shift+f"
     },
     {
       "command": {
@@ -26,23 +26,23 @@
       "keys": "alt+shift+d"
     }
   ],
-  "alwaysShowNotificationIcon": true,
   "copyFormatting": "none",
   "copyOnSelect": false,
   "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
-  "focusFollowMouse": false,
-  "minimizeToNotificationArea": false,
+  "newTabMenu": [
+    {
+      "type": "remainingProfiles"
+    }
+  ],
   "profiles": {
     "defaults": {
-      "backgroundImage": "%userprofile%\\Pictures\\wt\\wt.gif",
-      "backgroundImageOpacity": 0.14000000000000001,
-      "cursorShape": "filledBox",
-      "font": {
-        "size": 14
-      },
-      "scrollbarState": "hidden",
+      "backgroundImage": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/wt.gif",
+      "backgroundImageOpacity": 0.17,
+      "cursorShape": "underscore",
+      "opacity": 70,
+      "padding": "14",
       "startingDirectory": ".",
-      "useAcrylic": false
+      "useAcrylic": true
     },
     "list": [
       {
@@ -58,27 +58,33 @@
         "name": "Command Prompt"
       },
       {
-        "backgroundImage": "%userprofile%\\Pictures\\wt\\git.png",
+        "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+        "hidden": true,
+        "name": "Azure Cloud Shell",
+        "source": "Windows.Terminal.Azure"
+      },
+      {
+        "backgroundImage": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/git.png",
         "guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
         "hidden": false,
-        "icon": "C:/Program Files/Git/mingw64/share/git/git-for-windows.ico",
+        "icon": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/git_icon.png",
         "name": "Git Bash",
         "source": "Git"
       },
       {
-        "backgroundImage": "%userprofile%\\Pictures\\wt\\debian.png",
+        "backgroundImage": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/debian.png",
         "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
         "hidden": false,
-        "icon": "%userprofile%\\Pictures\\wt\\debian_icon.png",
+        "icon": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/debian_icon.png",
         "name": "Debian",
         "source": "Windows.Terminal.Wsl"
       },
       {
-        "backgroundImage": "%userprofile%\\Pictures\\wt\\kali.jpg",
+        "backgroundImage": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/kali.jpg",
         "guid": "{46ca431a-3a87-5fb3-83cd-11ececc031d2}",
         "hidden": false,
-        "icon": "%userprofile%\\Pictures\\wt\\kali_icon.png",
-        "name": "Kali",
+        "icon": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/kali_icon.png",
+        "name": "Kali Linux",
         "source": "Windows.Terminal.Wsl"
       }
     ]
@@ -292,5 +298,42 @@
       "yellow": "#808000"
     }
   ],
-  "useAcrylicInTabRow": false
+  "themes": [
+    {
+      "name": "legacyDark",
+      "tab": {
+        "background": null,
+        "showCloseButton": "always",
+        "unfocusedBackground": null
+      },
+      "window": {
+        "applicationTheme": "dark",
+        "useMica": false
+      }
+    },
+    {
+      "name": "legacyLight",
+      "tab": {
+        "background": null,
+        "showCloseButton": "always",
+        "unfocusedBackground": null
+      },
+      "window": {
+        "applicationTheme": "light",
+        "useMica": false
+      }
+    },
+    {
+      "name": "legacySystem",
+      "tab": {
+        "background": null,
+        "showCloseButton": "always",
+        "unfocusedBackground": null
+      },
+      "window": {
+        "applicationTheme": "system",
+        "useMica": false
+      }
+    }
+  ]
 }
