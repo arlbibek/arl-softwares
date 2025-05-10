@@ -1,5 +1,5 @@
 {
-  "version": "2.0.109",
+  "version": "2.0.130.1",
   "settings": {
     "blur": 0,
     "brightness": 100,
@@ -13,11 +13,10 @@
     "backgroundcolor": "#000000",
     "backgroundopacity": 85,
     "blackbars": false,
-    "blockads": true,
-    "blockadsexceptforsubs": false,
     "blockautoplay": true,
     "blockhfrformats": false,
     "blockwebmformats": false,
+    "boostvolume": false,
     "cinemamode": false,
     "cinemamodewideplayer": true,
     "controlbar": {
@@ -35,8 +34,6 @@
       "speed-minus",
       "speed",
       "speed-plus",
-      "flip-horizontally",
-      "flip-vertically",
       "screenshot",
       "keyboard-shortcuts",
       "options"
@@ -46,6 +43,7 @@
     "controlspeedmousebutton": false,
     "controlvolume": false,
     "controlvolumemousebutton": false,
+    "convertshorts": true,
     "customcolors": {
       "--main-color": "#00adee",
       "--main-background": "#111111",
@@ -69,6 +67,7 @@
     "hidechat": true,
     "hidecomments": false,
     "hiderelated": false,
+    "hideshorts": true,
     "ignoreplaylists": true,
     "ignorepopupplayer": true,
     "localecode": "en_US",
@@ -81,7 +80,7 @@
     "overridespeeds": true,
     "pauseforegroundtab": false,
     "pausevideos": true,
-    "popuplayersize": "640x360",
+    "popuplayersize": "854x480",
     "qualityembeds": "large",
     "qualityembedsfullscreen": "hd1080",
     "qualityplaylists": "hd1080",
@@ -103,7 +102,6 @@
     "volume": 50,
     "volumemultiplier": 3,
     "volumevariation": 5,
-    "whitelist": "",
     "wideplayer": true,
     "wideplayerviewport": false
   }
