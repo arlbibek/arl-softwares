@@ -2,6 +2,14 @@
 
 # Softwares and Tools that I use on a daily basis
 
+> [!IMPORTANT]
+> The contents of this page is now maintained at following locations:
+>
+> - [alternativeto.net/lists/41212/softwares-and-tools-that-i-cannot-live-without](https://alternativeto.net/lists/41212/softwares-and-tools-that-i-cannot-live-without/)
+> - [alternativeto.net/lists/41213/browser-extensions-i-cannot-live-without](https://alternativeto.net/lists/41213/browser-extensions-i-cannot-live-without/)
+>
+> _As a result contents of this page are no longer updated here as of Monday, July 21, 2025_
+
 ## 💻 Windows
 
 ### [Firefox](https://www.mozilla.org/en-US/firefox/new/)
