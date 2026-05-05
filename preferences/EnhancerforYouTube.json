@@ -1,108 +1,95 @@
 {
-  "version": "2.0.130.1",
-  "settings": {
-    "blur": 0,
-    "brightness": 100,
-    "contrast": 100,
-    "grayscale": 0,
-    "huerotate": 0,
-    "invert": 0,
-    "saturate": 100,
-    "sepia": 0,
-    "applyvideofilters": false,
-    "backgroundcolor": "#000000",
-    "backgroundopacity": 85,
-    "blackbars": false,
-    "blockautoplay": true,
-    "blockhfrformats": false,
-    "blockwebmformats": false,
-    "boostvolume": false,
-    "cinemamode": false,
-    "cinemamodewideplayer": true,
-    "controlbar": {
-      "active": false,
-      "autohide": false,
-      "centered": true,
-      "position": "fixed"
-    },
-    "controls": [
-      "loop",
-      "volume-booster",
-      "cards-end-screens",
-      "cinema-mode",
-      "size",
-      "speed-minus",
-      "speed",
-      "speed-plus",
-      "screenshot",
-      "keyboard-shortcuts",
-      "options"
+    "$help": "https://aka.ms/terminal-documentation",
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "actions": [],
+    "alwaysShowNotificationIcon": true,
+    "centerOnLaunch": false,
+    "copyFormatting": "none",
+    "copyOnSelect": false,
+    "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+    "firstWindowPreference": "defaultProfile",
+    "initialPosition": ",",
+    "keybindings": 
+    [
+        {
+            "id": "Terminal.CopyToClipboard",
+            "keys": "ctrl+c"
+        },
+        {
+            "id": "Terminal.FindText",
+            "keys": "ctrl+shift+f"
+        },
+        {
+            "id": "Terminal.PasteFromClipboard",
+            "keys": "ctrl+v"
+        },
+        {
+            "id": "Terminal.DuplicatePaneAuto",
+            "keys": "alt+shift+d"
+        }
     ],
-    "controlsvisible": false,
-    "controlspeed": true,
-    "controlspeedmousebutton": false,
-    "controlvolume": false,
-    "controlvolumemousebutton": false,
-    "convertshorts": true,
-    "customcolors": {
-      "--main-color": "#00adee",
-      "--main-background": "#111111",
-      "--second-background": "#181818",
-      "--hover-background": "#232323",
-      "--main-text": "#eff0f1",
-      "--dimmer-text": "#cccccc",
-      "--shadow": "#000000"
+    "launchMode": "default",
+    "minimizeToNotificationArea": true,
+    "newTabMenu": 
+    [
+        {
+            "type": "remainingProfiles"
+        }
+    ],
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "backgroundImage": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/wt.gif",
+            "backgroundImageOpacity": 0.17,
+            "cursorShape": "underscore",
+            "opacity": 70,
+            "padding": "14",
+            "startingDirectory": ".",
+            "useAcrylic": true
+        },
+        "list": 
+        [
+            {
+                "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                "hidden": false,
+                "name": "Windows PowerShell"
+            },
+            {
+                "commandline": "%SystemRoot%\\System32\\cmd.exe",
+                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+                "hidden": false,
+                "name": "Command Prompt"
+            },
+            {
+                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+                "hidden": true,
+                "name": "Azure Cloud Shell",
+                "source": "Windows.Terminal.Azure"
+            },
+            {
+                "backgroundImage": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/git.png",
+                "guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
+                "hidden": false,
+                "icon": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/git_icon.png",
+                "name": "Git Bash",
+                "source": "Git"
+            },
+            {
+                "backgroundImage": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/kali.jpg",
+                "colorScheme": "Campbell",
+                "commandline": "C:\\WINDOWS\\system32\\wsl.exe -d Ubuntu-24.04",
+                "guid": "{28871e7d-48d5-4cb8-b0ba-d612373a0ba9}",
+                "hidden": false,
+                "icon": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/kali_icon.png",
+                "name": "Ubuntu-24.04",
+                "pathTranslationStyle": "wsl"
+            }
+        ]
     },
-    "customcssrules": "",
-    "customscript": "",
-    "customtheme": false,
-    "darktheme": true,
-    "date": 1614952928032,
-    "defaultvolume": false,
-    "disableautoplay": true,
-    "executescript": false,
-    "expanddescription": false,
-    "filter": "none",
-    "hidecardsendscreens": false,
-    "hidechat": true,
-    "hidecomments": false,
-    "hiderelated": false,
-    "hideshorts": true,
-    "ignoreplaylists": true,
-    "ignorepopupplayer": true,
-    "localecode": "en_US",
-    "localedir": "ltr",
-    "message": false,
-    "miniplayer": true,
-    "miniplayerposition": "_top-left",
-    "miniplayersize": "_400x225",
-    "newestcomments": false,
-    "overridespeeds": true,
-    "pauseforegroundtab": false,
-    "pausevideos": true,
-    "popuplayersize": "854x480",
-    "qualityembeds": "large",
-    "qualityembedsfullscreen": "hd1080",
-    "qualityplaylists": "hd1080",
-    "qualityplaylistsfullscreen": "hd1080",
-    "qualityvideos": "hd1080",
-    "qualityvideosfullscreen": "hd1080",
-    "reload": false,
-    "reversemousewheeldirection": false,
-    "selectquality": true,
-    "selectqualityfullscreenoff": false,
-    "selectqualityfullscreenon": false,
-    "speed": 1,
-    "speedvariation": 0.1,
-    "stopvideos": false,
-    "theatermode": false,
-    "theme": "youtube-deep-dark",
-    "themevariant": "youtube-deep-dark.css",
-    "update": 1617874339197,
-    "volume": 50,
-    "volumemultiplier": 3,
-    "volumevariation": 5,
-    "wideplayer": true,
-    "wideplayerviewport": false
-  }
+    "schemes": [],
+    "theme": "dark",
+    "themes": [],
+    "useAcrylicInTabRow": false
 }
