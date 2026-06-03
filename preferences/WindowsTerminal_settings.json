@@ -4,9 +4,15 @@
     "actions": [],
     "alwaysShowNotificationIcon": true,
     "centerOnLaunch": true,
+    "compatibility.enableUnfocusedAcrylic": false,
     "copyFormatting": "none",
     "copyOnSelect": false,
     "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+    "disabledProfileSources": 
+    [
+        "Windows.Terminal.Azure"
+    ],
+    "firstWindowPreference": "persistedWindowLayout",
     "keybindings": 
     [
         {
@@ -14,19 +20,19 @@
             "keys": "ctrl+c"
         },
         {
-            "id": "Terminal.FindText",
-            "keys": "ctrl+shift+f"
-        },
-        {
             "id": "Terminal.PasteFromClipboard",
             "keys": "ctrl+v"
+        },
+        {
+            "id": "Terminal.FindText",
+            "keys": "ctrl+shift+f"
         },
         {
             "id": "Terminal.DuplicatePaneAuto",
             "keys": "alt+shift+d"
         }
     ],
-    "launchMode": "focus",
+    "launchMode": "default",
     "minimizeToNotificationArea": true,
     "newTabMenu": 
     [
@@ -38,11 +44,13 @@
     {
         "defaults": 
         {
-            "backgroundImage": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/wt.gif",
+            "backgroundImage": "C:\\Users\\B1B\\arlbibek\\arl-softwares\\images\\wt.gif",
             "backgroundImageOpacity": 0.17,
-            "cursorShape": "underscore",
+            "cursorShape": "vintage",
+            "icon": "\ue756",
             "opacity": 70,
             "padding": "14",
+            "scrollbarState": "hidden",
             "startingDirectory": ".",
             "useAcrylic": true
         },
@@ -52,42 +60,37 @@
                 "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
                 "hidden": false,
+                "icon": "C:\\Users\\B1B\\arlbibek\\arl-softwares\\images\\terminal.png",
                 "name": "Windows PowerShell"
             },
             {
                 "commandline": "%SystemRoot%\\System32\\cmd.exe",
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": false,
+                "icon": "C:\\Users\\B1B\\arlbibek\\arl-softwares\\images\\cmd.png",
                 "name": "Command Prompt"
             },
             {
-                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
-                "hidden": true,
-                "name": "Azure Cloud Shell",
-                "source": "Windows.Terminal.Azure"
-            },
-            {
-                "backgroundImage": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/git.png",
+                "backgroundImage": "C:\\Users\\B1B\\arlbibek\\arl-softwares\\images\\git.png",
                 "guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
                 "hidden": false,
-                "icon": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/git_icon.png",
+                "icon": "C:\\Users\\B1B\\arlbibek\\arl-softwares\\images\\git_icon.png",
                 "name": "Git Bash",
                 "source": "Git"
             },
             {
-                "backgroundImage": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/kali.jpg",
-                "colorScheme": "Campbell",
-                "commandline": "C:\\WINDOWS\\system32\\wsl.exe -d Ubuntu-24.04",
-                "guid": "{28871e7d-48d5-4cb8-b0ba-d612373a0ba9}",
+                "backgroundImage": "C:\\Users\\B1B\\arlbibek\\arl-softwares\\images\\kali.jpg",
+                "guid": "{84d9f612-346e-5cba-abf1-ba344c7e4e0e}",
                 "hidden": false,
-                "icon": "https://raw.githubusercontent.com/arlbibek/arl-softwares/master/images/kali_icon.png",
-                "name": "Ubuntu-24.04",
-                "pathTranslationStyle": "wsl"
+                "icon": "C:\\Users\\B1B\\arlbibek\\arl-softwares\\images\\kali_icon.png",
+                "name": "kali-linux",
+                "source": "Microsoft.WSL"
             }
         ]
     },
     "schemes": [],
     "theme": "system",
     "themes": [],
-    "useAcrylicInTabRow": true
+    "useAcrylicInTabRow": true,
+    "windowingBehavior": "useExisting"
 }
