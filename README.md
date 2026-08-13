@@ -19,7 +19,6 @@ A free and open-source browser.
 - Go to official download page: [mozilla.org/en-US/firefox/new](https://www.mozilla.org/en-US/firefox/new/)
 
   **Browser extensions**
-
   - [uBlock Origin](https://ublockorigin.com/) - an efficient blocker. Easy on CPU and memory.
   - [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Encrypt the Web! Automatically use HTTPS security on many sites.
   - [DuckDuckGo Privacy Essentials](https://duckduckgo.com/) - Privacy, simplified. Protect your data as you search and browse: tracker blocking, smarter encryption, private search, and more.
