@@ -1,5 +1,5 @@
 {
-  "version": "2.0.133.1",
+  "version": "2.0.136",
   "settings": {
     "blur": 0,
     "brightness": 100,
@@ -27,20 +27,11 @@
     },
     "controls": [
       "loop",
-      "stop",
       "volume-booster",
-      "cards-end-screens",
-      "cinema-mode",
-      "size",
       "speed-minus",
       "speed",
       "speed-plus",
-      "video-filters",
-      "flip-horizontally",
-      "flip-vertically",
       "screenshot",
-      "keyboard-shortcuts",
-      "custom-script",
       "options"
     ],
     "controlsvisible": false,
@@ -64,7 +55,7 @@
     "darktheme": true,
     "date": 1779293288054,
     "defaultvolume": false,
-    "disableautoplay": false,
+    "disableautoplay": true,
     "executescript": false,
     "expanddescription": false,
     "filter": "none",
@@ -95,7 +86,7 @@
     "hidecardsendscreens": false,
     "hidechat": true,
     "hidecomments": false,
-    "hiderelated": false,
+    "hiderelated": true,
     "hideshorts": true,
     "ignoreplaylists": true,
     "ignorepopupplayer": true,
@@ -107,7 +98,7 @@
     "newestcomments": false,
     "overridespeeds": true,
     "pauseforegroundtab": false,
-    "pausevideos": false,
+    "pausevideos": true,
     "qualityembeds": "hd1080",
     "qualityembedsfullscreen": "hd1080",
     "qualityplaylists": "hd1080",
@@ -131,6 +122,6 @@
     "volumevariation": 5,
     "whatsnew": false,
     "wideplayer": true,
-    "wideplayerviewport": true
+    "wideplayerviewport": false
   }
 }
